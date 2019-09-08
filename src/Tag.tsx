@@ -1,6 +1,9 @@
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import * as React from 'react';
+import { connect } from 'react-redux';
 import styled from 'styled-components';
-import { Tag as TagType } from './Main';
+import { remove } from './store/tags/actions';
+import { Tag as TagType } from './types';
 
 interface Props {
   tag: TagType;
@@ -11,51 +14,55 @@ const Wrapper = styled.div`
   display: flex;
   box-shadow: 0 4px 2px -2px rgba(20,20,20,0.05);
   border-radius: 0.25rem;
-  background-color: #c5e3e8;
+  background-color: rgba(25, 157, 173, 0.25);
   transform: translateY(0);
   transition: background-color 250ms, transform 250ms;
-  &:not(:first-child) {
-    margin-left: 0.5rem;
-  }
+  margin: 0.5rem 0 0 0.5rem;
   &:hover {
-    background-color: #cdedf3;
+    background-color: rgba(25, 157, 173, 0.5);
     transform: translateY(-1px);
   }
 `;
 
-const Tag = styled.div`
-  background: #e1e1e1;
+const TagText = styled.div`
+  color: rgb(22, 70, 70);
   padding: 0.5rem;
   z-index: 1;
-  color: #10464c;
   cursor: pointer;
   background-color: transparent;
+  font-weight: bold;
 `;
 
 const RemoveTag = styled.button`
+  color: rgb(22, 70, 70);
   padding: 0.5rem;
   border: none;
   outline: none;
-  color: #10464c;
   cursor: pointer;
   background-color: transparent;
 `;
 
-const TagComponent: React.SFC<Props> = ({ tag, removeTag }) => {
+const Tag: React.SFC<Props> = ({ tag, removeTag }) => {
   const onTagClick = () => removeTag(tag);
   
   return (
     <Wrapper key={tag.value} onClick={onTagClick}>
-      <Tag>
+      <TagText>
         {tag.value}
-      </Tag>
+      </TagText>
       <RemoveTag>
-        x
+        <FontAwesomeIcon icon="times" />
       </RemoveTag>
     </Wrapper>
   );
 };
 
+const mapDispatchToProps = {
+  removeTag: remove,
+};
+
+const ConnectedTag = connect(null, mapDispatchToProps)(Tag);
+
 export {
-  TagComponent as Tag,
+  ConnectedTag as Tag,
 };

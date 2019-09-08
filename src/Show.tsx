@@ -1,14 +1,27 @@
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import * as React from 'react';
+import { connect } from 'react-redux';
 import styled, { css } from 'styled-components';
 import { Artist as ArtistComponent } from './Artist';
-import { Artist, LinkToggle, Show, Tag, Track } from './Main';
+import { add } from './store/tags/actions';
 import { Track as TrackComponent } from './Track';
+import { Artist, FileType, Show as ShowType, Tag, Track } from './types';
+
+const A = styled.a`
+  text-decoration: none;
+  color: ${props => props.theme.show.title};
+  text-shadow: 0 1px 1px rgba(20,20,20,0.2);
+`;
+
+const ShowSeparator = styled.hr`
+  border-color: rgba(34, 204, 204, 0.2);
+  border-style: solid;
+`;
 
 const ShowLink = styled.a`
   position: absolute;
-  bottom: 1.5rem;
-  right: 1.5rem;
+  bottom: 0.5rem;
+  right: 0.5rem;
   height: 4rem;
   width: 4rem;
   border-radius: 0.5rem;
@@ -16,13 +29,11 @@ const ShowLink = styled.a`
   align-items: center;
   justify-content: center;
   color: #b7b7b7;
-  z-index: 2;
   transition: background-color 250ms, color 250ms;
 `;
 
 const Wrapper = styled.li`
   padding: 1.25rem;
-  color: #1e1e1e;
   list-style: none;
   position: relative;
   transition: color 250ms;
@@ -37,40 +48,46 @@ const Wrapper = styled.li`
     right: 0;
     bottom: 0;
     transform: scale(0.95);
-    background-color: #fff;
-    box-shadow: 0 4px 2px -2px rgba(20,20,20,0.05);
-    transition: background-color 250ms, transform 250ms, box-shadow 250ms;
+    background-color: rgba(25, 157, 173, 0.1);
+    box-shadow: ${props => props.theme.show.shadow};
+    transition: background-color 250ms, transform 250ms;
     border-radius: 0.25rem;
-    z-index: -1;
   }
   &:hover {
-    color: #10464c;
-    hr {
-      border-color: #22cccc;
-    }
     &:before {
-      background-color: rgba(50,171,190,0.25);
-      box-shadow: 0 4px 2px -2px rgba(20,20,20,0.05), 0 8px 4px -4px rgba(20,20,20,0.05);
+      background-color: rgba(25, 157, 173, 0.35);
+      box-shadow: ${props => props.theme.show.hover.shadow};
       transform: scale(1);
+    }
+    ${A} {
+      color: ${props => props.theme.show.hover.title};
+    }
+    ${ShowSeparator} {
+      border-color: rgba(34, 204, 204, 1);
     }
     ${ShowLink} {
       background-color: rgba(20,20,20,0.05);
-      color: #708483;
+      color: ${props => props.theme.show.title};
+      &:hover {
+        color: ${props => props.theme.show.hover.title};
+      }
     }
   }
 `;
 
-const ShowName = styled.p`
+const ShowInner = styled.div`
+  position: relative;
+  min-width: 100%;
+  min-height: 100%;
+`;
+
+const ShowName = styled.h3`
   margin: 0;
   padding: 0.5rem 0 0;
   text-overflow: ellipsis;
   white-space: nowrap;
   overflow: hidden;
-`;
-
-const ShowSeparator = styled.hr`
-  border-color: #efefef;
-  border-style: solid;
+  font-weight: bold;
 `;
 
 const List = css`
@@ -100,12 +117,12 @@ const ShowContent = styled.div`
 `;
 
 interface Props {
-  show: Show;
+  show: ShowType;
   addTag: (tag: Tag) => void;
-  linkToggle: LinkToggle;
+  fileType: FileType;
 }
 
-const ShowComponent: React.SFC<Props> = ({ show, addTag, linkToggle }) => {
+const Show: React.SFC<Props> = ({ show, addTag, fileType }) => {
   const addTrackTag = (value: Track) => addTag({
     type: "track",
     value
@@ -118,40 +135,57 @@ const ShowComponent: React.SFC<Props> = ({ show, addTag, linkToggle }) => {
 
   return (
     <Wrapper>
-      <ShowName title={show.name}>{show.name}</ShowName>
-      <ShowSeparator />
-      <ShowContent>
-        <Tracks>
-          {show.setlist.map(track => (
-            <TrackComponent key={track} track={track} addTrackTag={addTrackTag} />
-          ))}
-          {show.encore.length > 0 ? "-" : ""}
-          {show.encore.filter(track => !!track).map(track => (
-            <TrackComponent key={track} track={track} addTrackTag={addTrackTag} />
-          ))}
-        </Tracks>
-        <Artists>
-          {(Object.keys(show.artists) as Array<keyof Show["artists"]>).map((artist) => (
-            <ArtistComponent key={artist} artist={artist} instrument={show.artists[artist]} addArtistTag={addArtistTag} />
-          ))}
-          {show.other_artists
-            ? (
-              Object.keys(show.other_artists)).map((track) => (
-                (Object.keys(show.other_artists[track as keyof Show["other_artists"]]) as Array<keyof Show["artists"]>).map((artist) => (
-                  <ArtistComponent key={`${track}-${artist}`} track={track} artist={artist} instrument={show.other_artists[track as keyof Show["other_artists"]][artist]} addArtistTag={addArtistTag} />
-                ))
+      <ShowInner>
+        <A href={fileType === "flac" ? show.flac : show.mp3}>
+          <ShowName title={show.name}>{show.name}</ShowName>
+        </A>
+        <ShowSeparator />
+        <ShowContent>
+          <Tracks>
+            {show.setlist.map(track => (
+              <TrackComponent key={track} track={track} addTrackTag={addTrackTag} />
+            ))}
+            {show.encore.length > 0 ? "-" : ""}
+            {show.encore.filter(track => !!track).map(track => (
+              <TrackComponent key={track} track={track} addTrackTag={addTrackTag} />
+            ))}
+          </Tracks>
+          <Artists>
+            {(Object.keys(show.artists) as Array<keyof ShowType["artists"]>).map((artist) => (
+              <ArtistComponent key={artist} artist={artist} instrument={show.artists[artist]} addArtistTag={addArtistTag} />
+            ))}
+            {show.other_artists
+              ? (
+                Object.keys(show.other_artists)).map((track) => (
+                  (Object.keys(show.other_artists[track as keyof ShowType["other_artists"]]) as Array<keyof ShowType["artists"]>)
+                    .map((artist) => (
+                      <ArtistComponent
+                        key={`${track}-${artist}`}
+                        track={track}
+                        artist={artist}
+                        instrument={show.other_artists[track as keyof ShowType["other_artists"]][artist]}
+                        addArtistTag={addArtistTag}
+                      />
+                    ))
+                )
               )
-            )
-            : null}
-        </Artists>
-      </ShowContent>
-      <ShowLink href={linkToggle === "flac" ? show.flac : show.mp3} target="_blank" rel="noopener">
-        <FontAwesomeIcon icon="external-link-alt" fixedWidth={true} size="2x" />
-      </ShowLink>
+              : null}
+          </Artists>
+        </ShowContent>
+        <ShowLink href={fileType === "flac" ? show.flac : show.mp3} target="_blank" rel="noopener">
+          <FontAwesomeIcon icon="external-link-alt" fixedWidth={true} size="2x" />
+        </ShowLink>
+      </ShowInner>
     </Wrapper>
   )
 };
 
+const mapDispatchToProps = {
+  addTag: add,
+};
+
+const ConnectedShow = connect(null, mapDispatchToProps)(Show);
+
 export {
-  ShowComponent as Show,
+  ConnectedShow as Show,
 };

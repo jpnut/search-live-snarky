@@ -1,8 +1,11 @@
 import Downshift from "downshift";
 import * as React from 'react';
+import { connect } from "react-redux";
 import styled from 'styled-components';
 import shows from './data/tagged-shows.json';
-import { Artist, Tag, Track } from './Main';
+import { State } from "./store/reducers";
+import { add } from "./store/tags/actions";
+import { Artist, Tag, Track } from './types';
 
 interface Props {
   tags: Tag[];
@@ -31,6 +34,7 @@ const Input = styled.input`
 `;
 
 const Dropdown = styled.ul`
+  color: #3a3a3a;
   position: absolute;
   top: 2.5rem;
   left: 0rem;
@@ -63,12 +67,14 @@ const allArtists: Tag[] = [...new Set(shows.map(s => Object.keys(s.tags.artists)
 
 const searchItems: Tag[] = allTracks.concat(allArtists);
 
-export const Search: React.SFC<Props> = ({ tags, addTag }) => {
+const reset = () => null;
+
+const itemToString = (item: Tag) => (item ? item.value : "");
+
+const Search: React.SFC<Props> = ({ tags, addTag }) => {
   const [search, setSearch] = React.useState("");
-  const itemToString = (item: Tag) => (item ? item.value : "");
-  const onSearchChange = (inputValue: string) => setSearch(currentSearch => inputValue);
+  const onSearchChange = (inputValue: string) => setSearch(inputValue);
   const values = new Set(tags.map(tag => tag.value));
-  const reset = () => null;
   const onChange = (tag: Tag) => {
     addTag(tag);
     setSearch("");
@@ -130,4 +136,18 @@ export const Search: React.SFC<Props> = ({ tags, addTag }) => {
       }}
     </Downshift>
   );
+};
+
+const mapStateToProps = ({ tags: { tags } }: State) => ({
+  tags,
+});
+
+const mapDispatchToProps = {
+  addTag: add
+};
+
+const ConnectedSearch = connect(mapStateToProps, mapDispatchToProps)(Search);
+
+export {
+  ConnectedSearch as Search,
 };

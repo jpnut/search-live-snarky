@@ -1,6 +1,6 @@
 import * as React from 'react';
 import styled from 'styled-components';
-import { Artist as ArtistType } from './Main';
+import { Artist as ArtistType } from './types';
 
 interface Props {
   artist: string;

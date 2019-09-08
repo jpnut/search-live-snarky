@@ -1,43 +1,21 @@
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import React from 'react';
-import styled, { createGlobalStyle } from 'styled-components';
+import { connect } from 'react-redux';
+import styled, { ThemeProvider } from 'styled-components';
 import { Reset } from 'styled-reset';
 import { Main } from './Main';
-import { centered } from './styles';
-
-const GlobalStyle = createGlobalStyle`
-  html {
-    margin: 0;
-    min-height: 100vh;
-    min-width: 350px;
-    background: whitesmoke;
-    box-sizing: border-box;
-  }
-
-  body {
-    margin: 0;
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-      sans-serif;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-  }
-
-  code {
-    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-      monospace;
-  }
-
-  div {
-    box-sizing: border-box;
-  }
-`
+import { State } from './store/reducers';
+import { centered, GlobalStyle, themes } from './styles';
+import { Theme } from './types';
 
 const Wrapper = styled.div`
   height: 100%;
   display: flex;
   flex-direction: column;
   min-height: 100vh;
+  background-color: ${props => props.theme.main.background};
+  color: ${props => props.theme.main.text};
+  transition: background-color 250ms, color 250ms;
 `;
 
 const Container = styled.div`
@@ -47,7 +25,7 @@ const Container = styled.div`
 `;
 
 const FooterWrapper = styled.div`
-  background: rgba(20,20,20,0.05);
+  background: ${props => props.theme.footer.background};
 `;
 
 const Footer = styled.div`
@@ -64,8 +42,12 @@ const FooterLink = styled.a`
   text-decoration: none;
 `;
 
-const App: React.FC = () => {
-  return (
+interface Props {
+  theme: Theme;
+}
+
+const App: React.FC<Props> = ({ theme }) => (
+  <ThemeProvider theme={themes[theme]}>
     <Wrapper>
       <Reset />
       <GlobalStyle />
@@ -75,7 +57,7 @@ const App: React.FC = () => {
       <FooterWrapper>
         <Footer>
           <FooterText>
-            <FooterLink href="/">
+            <FooterLink href="https://github.com/jpnut/search-live-snarky">
               View on GitHub
               &nbsp;
               <FontAwesomeIcon icon={["fab", "github"]} />
@@ -84,7 +66,13 @@ const App: React.FC = () => {
         </Footer>
       </FooterWrapper>
     </Wrapper>
-  );
-}
+  </ThemeProvider>
+);
 
-export default App;
+const mapStateToProps = ({ theme: { theme } }: State) => ({
+  theme,
+});
+
+const ConnectedApp = connect(mapStateToProps)(App);
+
+export default ConnectedApp;

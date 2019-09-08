@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/54d3cc17-f6fb-4263-8ffc-0e6154d159e2/deploy-status)](https://app.netlify.com/sites/search-live-snarky/deploys)
+
 # Searchable Live Snarky
 
 This is the repository for [searchlivesnarky.com](https://searchlivesnarky.com), a fan run project to make it easier to search and filter through the large catalogue of Snarky Puppy live shows. This is an open source project, and contributions either to the library of shows, or to the functionality of the site are more than welcome! The project is written in Typescript, using React, with hosting provided by Netlify.

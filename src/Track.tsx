@@ -1,6 +1,6 @@
 import * as React from 'react';
 import styled from 'styled-components';
-import { Track as TrackType } from './Main';
+import { Track as TrackType } from './types';
 
 interface Props {
   track: string;

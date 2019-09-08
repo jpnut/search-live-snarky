@@ -12,7 +12,12 @@
             true,
             "never-prefix"
         ],
-        "no-console": false
+        "no-console": false,
+        "no-implicit-dependencies": [
+            true,
+            "dev"
+        ],
+        "no-submodule-imports": false
     },
     "rulesDirectory": []
 }
