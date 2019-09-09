@@ -19,4 +19,7 @@ export const dark = {
     shadow: '0 4px 2px -2px rgba(20,20,20,0.5)',
     title: 'rgb(28, 180, 180)',
   },
+  tag: {
+    text: 'rgb(28, 220, 220)',
+  },
 };

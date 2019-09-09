@@ -18,5 +18,8 @@ export const light = {
     },
     shadow: '0 4px 2px -2px rgba(20,20,20,0.05)',
     title: 'rgb(22, 110, 110)',
-  }
+  },
+  tag: {
+    text: 'rgb(22, 70, 70)',
+  },
 };

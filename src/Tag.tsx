@@ -25,7 +25,7 @@ const Wrapper = styled.div`
 `;
 
 const TagText = styled.div`
-  color: rgb(22, 70, 70);
+  color: ${props => props.theme.tag.text};
   padding: 0.5rem;
   z-index: 1;
   cursor: pointer;
@@ -34,7 +34,7 @@ const TagText = styled.div`
 `;
 
 const RemoveTag = styled.button`
-  color: rgb(22, 70, 70);
+  color: ${props => props.theme.tag.text};
   padding: 0.5rem;
   border: none;
   outline: none;
