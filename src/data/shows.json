@@ -1,5 +1,569 @@
 [
     {
+        "name": "SEPTEMBER 23, 2019 - CHARLESTON, SC",
+        "flac": "https://store.snarkypuppy.com/products/september-23-2019-charleston-sc-flac",
+        "mp3": "https://store.snarkypuppy.com/products/september-23-2019-charleston-sc-mp3",
+        "location": "The Music Farm, Charleston, SC",
+        "date": "September 23rd, 2019",
+        "setlist": [
+            "Kite",
+            "Chrysalis",
+            "Bigly Strictness",
+            "Bad Kids to the Back",
+            "Gemini",
+            "Tio Macaco",
+            "Thing of Gold",
+            "Chonks"
+        ],
+        "encore": [
+            "Xavi"
+        ],
+        "track_info": null,
+        "artists": {
+            "Bob Reynolds": "saxophone",
+            "Chris Bullock": "tenor sax, flute, and alto flute",
+            "Mike “Maz” Maher": "trumpet and flugelhorn",
+            "Justin Stanton": "trumpet and keyboards",
+            "Bobby Sparks": "keyboards",
+            "Bob Lanzetti": "guitar",
+            "Michael League": "bass",
+            "Jason “JT” Thomas": "drums",
+            "Keita Ogawa": "percussion"
+        },
+        "sound_crew": {
+            "Matt Recchia": "engineering and sound (front of house)",
+            "Michael Harrison": "monitors",
+            "Neil Macintosh": "mixing"
+        }
+    },
+    {
+        "name": "SEPTEMBER 21, 2019 - BIRMINGHAM, AL",
+        "flac": "https://store.snarkypuppy.com/products/september-21-2019-birmingham-al-flac",
+        "mp3": "https://store.snarkypuppy.com/products/september-21-2019-birmingham-al-mp3",
+        "location": "Avondale Brewing Co, Birmingham, AL",
+        "date": "September 21st, 2019",
+        "setlist": [
+            "Embossed",
+            "Chrysalis",
+            "Tarova",
+            "Xavi",
+            "Semente",
+            "Chonks",
+            "Tio Macaco",
+            "Flood"
+        ],
+        "encore": [
+            "What About Me?"
+        ],
+        "track_info": null,
+        "artists": {
+            "Bob Reynolds": "saxophone",
+            "Chris Bullock": "tenor sax, flute, and alto flute",
+            "Mike “Maz” Maher": "trumpet and flugelhorn",
+            "Justin Stanton": "trumpet and keyboards",
+            "Bob Lanzetti": "guitar",
+            "Michael League": "bass",
+            "Jason “JT” Thomas": "drums",
+            "Keita Ogawa": "percussion"
+        },
+        "sound_crew": {
+            "Matt Recchia": "engineering and sound (front of house)",
+            "Michael Harrison": "monitors",
+            "Neil Macintosh": "mixing"
+        }
+    },
+    {
+        "name": "SEPTEMBER 20, 2019 - ATLANTA, GA",
+        "flac": "https://store.snarkypuppy.com/products/september-20-2019-atlanta-ga-flac",
+        "mp3": "https://store.snarkypuppy.com/products/september-20-2019-atlanta-ga-mp3",
+        "location": "The Tabernacle, Atlanta, GA",
+        "date": "September 20th, 2019",
+        "setlist": [
+            "While We're Young",
+            "Embossed",
+            "Bad Kids to the Back",
+            "Bigly Strictness",
+            "Grown Folks",
+            "Chonks",
+            "Even Us",
+            "Xavi"
+        ],
+        "encore": [
+            "Lingus"
+        ],
+        "track_info": null,
+        "artists": {
+            "Bob Reynolds": "saxophone",
+            "Chris Bullock": "tenor sax, flute, and alto flute",
+            "Mike “Maz” Maher": "trumpet and flugelhorn",
+            "Justin Stanton": "trumpet and keyboards",
+            "Bobby Sparks": "keyboards",
+            "Bob Lanzetti": "guitar",
+            "Michael League": "bass",
+            "Jason “JT” Thomas": "drums",
+            "Keita Ogawa": "percussion"
+        },
+        "sound_crew": {
+            "Matt Recchia": "engineering and sound (front of house)",
+            "Michael Harrison": "monitors",
+            "Neil Macintosh": "mixing"
+        }
+    },
+    {
+        "name": "SEPTEMBER 16, 2019 - CLEMSON, SC",
+        "flac": "https://store.snarkypuppy.com/products/september-16-2019-clemson-sc-flac",
+        "mp3": "https://store.snarkypuppy.com/products/september-16-2019-clemson-sc-mp3",
+        "location": "Brooks Center, Clemson, SC",
+        "date": "September 16th, 2019",
+        "setlist": [
+            "Gø",
+            "Kite",
+            "Embossed",
+            "Bad Kids to the Back",
+            "Whitecap",
+            "Tarova",
+            "Xavi"
+        ],
+        "encore": [
+            "Shofukan"
+        ],
+        "track_info": null,
+        "artists": {
+            "Chris Bullock": "tenor sax, flute, and alto flute",
+            "Jay Jennings":"trumpet and flugelhorn",
+            "Justin Stanton": "trumpet, flugelhorn and keyboards",
+            "Zach Brock": "violin",
+            "Bobby Sparks": "keyboards",
+            "Shaun Martin": "keyboards",
+            "Chris McQueen": "guitar",
+            "Michael League": "bass",
+            "Jason “JT” Thomas": "drums",
+            "Nate Werth": "percussion"
+        },
+        "sound_crew": {
+            "Matt Recchia": "engineering and sound (front of house)",
+            "Michael Harrison": "monitors",
+            "Neil Macintosh": "mixing"
+        }
+    },
+    {
+        "name": "SEPTEMBER 15, 2019 - CHARLOTTE, NC",
+        "flac": "https://store.snarkypuppy.com/products/september-15-2019-charlotte-nc-flac",
+        "mp3": "https://store.snarkypuppy.com/products/september-15-2019-charlotte-nc-mp3",
+        "location": "NoDa Brewing, Charlotte, NC",
+        "date": "September 15th, 2019",
+        "setlist": [
+            "Coven",
+            "Embossed",
+            "Bling Bling",
+            "While We're Young",
+            "Grown Folks",
+            "Chonks",
+            "Tio Macaco",
+            "Big Ugly"
+        ],
+        "encore": [
+            "What About Me?"
+        ],
+        "track_info": null,
+        "artists": {
+            "Chris Bullock": "tenor sax, flute, and alto flute",
+            "Jay Jennings":"trumpet and flugelhorn",
+            "Justin Stanton": "trumpet, flugelhorn and keyboards",
+            "Zach Brock": "violin",
+            "Bobby Sparks": "keyboards",
+            "Shaun Martin": "keyboards",
+            "Chris McQueen": "guitar",
+            "Michael League": "bass",
+            "Jason “JT” Thomas": "drums",
+            "Nate Werth": "percussion"
+        },
+        "sound_crew": {
+            "Matt Recchia": "engineering and sound (front of house)",
+            "Michael Harrison": "monitors",
+            "Neil Macintosh": "mixing"
+        }
+    },
+    {
+        "name": "SEPTEMBER 14TH, 2019 - RALEIGH, NC",
+        "flac": "https://store.snarkypuppy.com/products/september-14th-2019-raleigh-nc-flac",
+        "mp3": "https://store.snarkypuppy.com/products/september-14th-2019-raleigh-nc-mp3",
+        "location": "North Carolina Museum of Art, Raleigh, NC",
+        "date": "September 14th, 2019",
+        "setlist": [
+            "Beep Box",
+            "Bigly Strictness",
+            "Semente",
+            "Bad Kids to the Back",
+            "Flood",
+            "Tarova",
+            "Chonks",
+            "Sleeper"
+        ],
+        "encore": [
+            "Xavi"
+        ],
+        "track_info": null,
+        "artists": {
+            "Chris Bullock": "tenor sax, flute, and alto flute",
+            "Jay Jennings":"trumpet and flugelhorn",
+            "Justin Stanton": "trumpet, flugelhorn and keyboards",
+            "Zach Brock": "violin",
+            "Bobby Sparks": "keyboards",
+            "Shaun Martin": "keyboards",
+            "Chris McQueen": "guitar",
+            "Michael League": "bass",
+            "Jason “JT” Thomas": "drums",
+            "Nate Werth": "percussion"
+        },
+        "sound_crew": {
+            "Matt Recchia": "engineering and sound (front of house)",
+            "Michael Harrison": "monitors",
+            "Neil Macintosh": "mixing"
+        }
+    },
+    {
+        "name": "SEPTEMBER 13, 2019 - RICHMOND, VA",
+        "flac": "https://store.snarkypuppy.com/products/september-13-2019-richmond-va-flac",
+        "mp3": "https://store.snarkypuppy.com/products/september-13-2019-richmond-va-mp3",
+        "location": "The National, Richmond, VA",
+        "date": "September 13th, 2019",
+        "setlist": [
+            "Embossed",
+            "While We're Young",
+            "Bling Bling",
+            "Gø",
+            "Grown Folks",
+            "Tio Macaco",
+            "Chonks",
+            "Sleeper"
+        ],
+        "encore": [
+            "What About Me?"
+        ],
+        "track_info": null,
+        "artists": {
+            "Chris Bullock": "tenor sax, flute, and alto flute",
+            "Justin Stanton": "trumpet and keyboards",
+            "Jay Jennings":"trumpet and flugelhorn",
+            "Zach Brock": "violin",
+            "Bobby Sparks": "keyboards",
+            "Shaun Martin": "keyboards",
+            "Chris McQueen": "guitar",
+            "Michael League": "bass",
+            "Jason “JT” Thomas": "drums",
+            "Nate Werth": "percussion"
+        },
+        "sound_crew": {
+            "Matt Recchia": "engineering and sound (front of house)",
+            "Michael Harrison": "monitors",
+            "Neil Macintosh": "mixing"
+        }
+    },
+    {
+        "name": "SEPTEMBER 11, 2019 - COVINGTON, KY",
+        "flac": "https://store.snarkypuppy.com/products/september-11-2019-covington-ky-flac",
+        "mp3": "https://store.snarkypuppy.com/products/september-11-2019-covington-ky-mp3",
+        "location": "Madison Theatre, Covington, KY",
+        "date": "September 11th, 2019",
+        "setlist": [
+            "Beep Box",
+            "Chrysalis",
+            "While We're Young",
+            "34 Klezma",
+            "Gemini",
+            "Embossed",
+            "Thing of Gold",
+            "Chonks",
+            "Xavi"
+        ],
+        "encore": [
+            "Sleeper"
+        ],
+        "track_info": null,
+        "artists": {
+            "Chris Bullock": "tenor sax, flute, and alto flute",
+            "Justin Stanton": "trumpet, flugelhorn and keyboards",
+            "Zach Brock": "violin",
+            "Bobby Sparks": "keyboards",
+            "Shaun Martin": "keyboards",
+            "Chris McQueen": "guitar",
+            "Michael League": "bass",
+            "Jason “JT” Thomas": "drums",
+            "Nate Werth": "percussion"
+        },
+        "sound_crew": {
+            "Matt Recchia": "engineering and sound (front of house)",
+            "Michael Harrison": "monitors",
+            "Neil Macintosh": "mixing"
+        }
+    },
+    {
+        "name": "SEPTEMBER 8, 2019 - ANN ARBOR, MI",
+        "flac": "https://store.snarkypuppy.com/products/september-8-2019-ann-arbor-mi-flac",
+        "mp3": "https://store.snarkypuppy.com/products/september-8-2019-ann-arbor-mi-mp3",
+        "location": "The University of Michigan (Hill Auditorium), Ann Arbor, MI",
+        "date": "September 8th, 2019",
+        "setlist": [
+            "Even Us",
+            "Embossed",
+            "Bigly Strictness",
+            "Bad Kids",
+            "Tarova",
+            "Tio Macaco",
+            "Thing of Gold",
+            "Xavi"
+        ],
+        "encore": [
+            "Lingus"
+        ],
+        "track_info": null,
+        "artists": {
+            "Chris Bullock": "tenor sax, flute, and alto flute",
+            "Justin Stanton": "trumpet, flugelhorn and keyboards",
+            "Zach Brock": "violin",
+            "Shaun Martin": "keyboards",
+            "Chris McQueen": "guitar",
+            "Michael League": "bass",
+            "Jason “JT” Thomas": "drums",
+            "Nate Werth": "percussion"
+        },
+        "sound_crew": {
+            "Matt Recchia": "engineering and sound (front of house)",
+            "Michael Harrison": "monitors",
+            "Neil Macintosh": "mixing"
+        }
+    },
+    {
+        "name": "SEPTEMBER 7, 2019 - TORONTO, ONT, CANADA (LATE SHOW)",
+        "flac": "https://store.snarkypuppy.com/products/september-7-2019-toronto-ont-ca-late-show-flac",
+        "mp3": "https://store.snarkypuppy.com/products/september-7-2019-toronto-ont-ca-late-show-mp3",
+        "location": "Phoenix Concert Theatre, Toronto, Ontario, Canada",
+        "date": "September 7th, 2019",
+        "setlist": [
+            "Embossed",
+            "Flood",
+            "Bigly Strictness",
+            "Whitecap",
+            "Young Stuff",
+            "Tio Macaco",
+            "Xavi"
+        ],
+        "encore": [
+            "What About Me?"
+        ],
+        "track_info": null,
+        "artists": {
+            "Chris Bullock": "tenor sax, flute, and alto flute",
+            "Jay Jennings": "trumpet and flugelhorn",
+            "Zach Brock": "violin",
+            "Shaun Martin": "keyboards",
+            "Chris McQueen": "guitar",
+            "Bob Lanzetti": "guitar",
+            "Michael League": "bass",
+            "Jason “JT” Thomas": "drums",
+            "Nate Werth": "percussion"
+        },
+        "sound_crew": {
+            "Matt Recchia": "engineering and sound (front of house)",
+            "Michael Harrison": "monitors",
+            "Neil Macintosh": "mixing"
+        }
+    },
+    {
+        "name": "SEPTEMBER 7, 2019 - TORONTO, ONT, CANADA (EARLY SHOW)",
+        "flac": "https://store.snarkypuppy.com/products/september-6-2019-toronto-ont-ca-early-show",
+        "mp3": "https://store.snarkypuppy.com/products/september-6-2019-toronto-ont-ca-early-show-mp3",
+        "location": "Phoenix Concert Theatre, Toronto, Ontario, Canada",
+        "date": "September 7th, 2019",
+        "setlist": [
+            "Even Us",
+            "Semente",
+            "Grown Folks",
+            "Gø",
+            "Bad Kids to the Back",
+            "Chonks",
+            "Shofukan"
+        ],
+        "encore": [
+            "Xavi"
+        ],
+        "track_info": null,
+        "artists": {
+            "Chris Bullock": "tenor sax, flute, and alto flute",
+            "Jay Jennings": "trumpet and flugelhorn",
+            "Zach Brock": "violin",
+            "Shaun Martin": "keyboards",
+            "Chris McQueen": "guitar",
+            "Bob Lanzetti": "guitar",
+            "Michael League": "bass",
+            "Jason “JT” Thomas": "drums",
+            "Nate Werth": "percussion"
+        },
+        "sound_crew": {
+            "Matt Recchia": "engineering and sound (front of house)",
+            "Michael Harrison": "monitors",
+            "Neil Macintosh": "mixing"
+        }
+    },
+    {
+        "name": "SEPTEMBER 6, 2019 - MONTREAL, QB, CANADA",
+        "flac": "https://store.snarkypuppy.com/products/september-6-2019-montreal-canada-flac",
+        "mp3": "https://store.snarkypuppy.com/products/september-6-2019-montreal-qb-ca-mp3",
+        "location": "MTELUS, Montreal, Quebec",
+        "date": "September 6th, 2019",
+        "setlist": [
+            "Even Us",
+            "Tarova",
+            "While We’re Young",
+            "Flood",
+            "Bad Kids to the Back",
+            "Chonks",
+            "Tio Macaco",
+            "Xavi*"
+        ],
+        "encore": [
+            "Lingus"
+        ],
+        "other_artists": {
+            "*": {
+                "Malika Tirolien": "vocals"
+            }
+        },
+        "track_info": null,
+        "artists": {
+            "Chris Bullock": "tenor sax, flute, and alto flute",
+            "Justin Stanton": "trumpet, flugelhorn and keyboards",
+            "Zach Brock": "violin",
+            "Bobby Sparks": "keyboards",
+            "Shaun Martin": "keyboards",
+            "Chris McQueen": "guitar",
+            "Michael League": "bass",
+            "Jason “JT” Thomas": "drums",
+            "Marcelo Woloski": "percussion"
+        },
+        "sound_crew": {
+            "Matt Recchia": "engineering and sound (front of house)",
+            "Michael Harrison": "monitors",
+            "Neil Macintosh": "mixing"
+        }
+    },
+    {
+        "name": "SEPTEMBER 5, 2019 - NEW HAVEN, CT",
+        "flac": "https://store.snarkypuppy.com/products/september-5-2019-new-haven-connecticut-flac",
+        "mp3": "https://store.snarkypuppy.com/products/september-5-2019-new-haven-connecticut-mp3",
+        "location": "Toad's Place, New Haven, CT",
+        "date": "September 5th, 2019",
+        "setlist": [
+            "Beep Box",
+            "Flood",
+            "Gø",
+            "Bad Kids",
+            "Even Us",
+            "Xavi",
+            "Sleeper"
+        ],
+        "encore": [
+            "Shofukan"
+        ],
+        "track_info": null,
+        "artists": {
+            "Chris Bullock": "tenor sax, flute, and alto flute",
+            "Justin Stanton": "trumpet, flugelhorn and keyboards",
+            "Zach Brock": "violin",
+            "Bobby Sparks": "keyboards",
+            "Shaun Martin": "keyboards",
+            "Chris McQueen": "guitar",
+            "Michael League": "bass",
+            "Jason “JT” Thomas": "drums",
+            "Marcelo Woloski": "percussion"
+        },
+        "sound_crew": {
+            "Matt Recchia": "engineering and sound (front of house)",
+            "Michael Harrison": "monitors",
+            "Neil Macintosh": "mixing"
+        }
+    },
+    {
+        "name": "JULY 24, 2019 - CARTAGENA, SPAIN",
+        "flac": "https://store.snarkypuppy.com/products/july-24-2019-cartagena-spain-flac",
+        "mp3": "https://store.snarkypuppy.com/products/july-24-2019-cartagena-spain-mp3",
+        "location": "La Mar De Musicas, Cartagena, Spain",
+        "date": "July 24th, 2019",
+        "setlist": [
+            "Flood",
+            "Tarova",
+            "While We're Young",
+            "Grown Folks",
+            "Bad Kids to the Back",
+            "Xavi",
+            "Even Us",
+            "Lingus"
+        ],
+        "encore": [],
+        "track_info": null,
+        "artists": {
+            "Chris Bullock": "tenor sax, flute, and alto flute",
+            "Mike “Maz” Maher": "trumpet and flugelhorn",
+            "Justin Stanton": "trumpet and keyboards",
+            "Bobby Sparks": "keyboards",
+            "Bill Laurence": "keyboards",
+            "Bob Lanzetti": "guitar",
+            "Michael League": "bass",
+            "Larnell Lewis": "drums",
+            "Marcelo Woloski": "percussion"
+        },
+        "sound_crew": {
+            "Matt Recchia": "monitors",
+            "Michael Harrison": "engineering and sound (front of house)",
+            "Nic Hard": "mixing"
+        }
+    },
+    {
+        "name": "JULY 9, 2019 - ISTANBUL, TURKEY",
+        "flac": "https://store.snarkypuppy.com/products/july-9th-2019-istanbul-turkey-flac",
+        "mp3": "https://store.snarkypuppy.com/products/july-9th-2019-istanbul-turkey-mp3",
+        "location": "Istanbul Jazz Festival, Istanbul, Turkey",
+        "date": "July 9th, 2019",
+        "setlist": [
+            "Embossed",
+            "Semente",
+            "Tarova",
+            "Bad Kids to the Back",
+            "Xavi",
+            "Palermo",
+            "Bigly Strictness*",
+            "Even Us*"
+        ],
+        "encore": [
+            "Shofukan*",
+            "Lingus"
+        ],
+        "track_info": null,
+        "artists": {
+            "Chris Bullock": "tenor sax, flute, and alto flute",
+            "Mike “Maz” Maher": "trumpet and flugelhorn",
+            "Justin Stanton": "trumpet and keyboards",
+            "Bobby Sparks": "keyboards",
+            "Bill Laurence": "keyboards",
+            "Bob Lanzetti": "guitar",
+            "Michael League": "bass",
+            "Louis Cato": "drums",
+            "Marcelo Woloski": "percussion"
+        },
+        "other_artists": {
+            "*": {
+                "defjen music": null,
+                "Erdem Erol": null
+            }
+        },
+        "sound_crew": {
+            "Matt Recchia": "monitors",
+            "Michael Harrison": "engineering and sound (front of house)",
+            "Nic Hard": "mixing"
+        }
+    },
+    {
         "name": "JUNE 29, 2019 - PARIS, FRANCE",
         "flac": "https://store.snarkypuppy.com/products/june-29-2019-paris-france-flac",
         "mp3": "https://store.snarkypuppy.com/products/june-29-2019-paris-france-mp3",
