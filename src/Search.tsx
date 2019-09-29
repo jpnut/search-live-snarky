@@ -7,6 +7,8 @@ import { State } from "./store/reducers";
 import { add } from "./store/tags/actions";
 import { Artist, Tag, Track } from './types';
 
+declare var window: any;
+
 interface Props {
   tags: Tag[];
   addTag: (tag: Tag) => void;
@@ -63,7 +65,43 @@ const DropdownItem = styled.li`
 
 const allTracks: Tag[] = [...new Set(shows.map(s => Object.keys(s.tags.tracks) as Track[]).flat())].sort().map(value => ({ value, type: "track" }));
 
+window.tracks = allTracks.map(tag => tag.value);
+
+window.performances = shows.reduce((prev, curr) => {
+  const tracks: { [x: string]: number } = { ...prev };
+
+  Object.keys(curr.tags.tracks).forEach((track) => {
+    if (tracks[track] !== undefined) {
+      tracks[track]++;
+
+      return;
+    }
+
+    tracks[track] = 1;
+  });
+
+  return tracks;
+}, {});
+
 const allArtists: Tag[] = [...new Set(shows.map(s => Object.keys(s.tags.artists) as Artist[]).flat())].sort().map(value => ({ value, type: "artist" }));
+
+window.artists = allArtists.map(tag => tag.value);
+
+window.appearances = shows.reduce((prev, curr) => {
+  const artists: { [x: string]: number } = { ...prev };
+
+  Object.keys(curr.tags.artists).forEach((artist) => {
+    if (artists[artist] !== undefined) {
+      artists[artist]++;
+
+      return;
+    }
+
+    artists[artist] = 1;
+  });
+
+  return artists;
+}, {});
 
 const searchItems: Tag[] = allTracks.concat(allArtists);
 

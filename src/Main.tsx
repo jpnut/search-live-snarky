@@ -8,6 +8,10 @@ import { State } from './store/reducers';
 import { Tag as TagComponent } from "./Tag";
 import { ContentType, Direction, FileType, Show, Tag } from './types';
 
+declare var window: any;
+
+window.shows = shows;
+
 const showContainsTags = (show: Show, tags: Tag[]) => {
   for (const tag of tags) {
     switch (tag.type) {
@@ -131,7 +135,6 @@ interface Props {
 }
 
 const Main: React.SFC<Props> = ({ contentType, direction, fileType, tags }) => {
-
   const results = orderShows(
     shows
       .filter(show => tags.length === 0 || showContainsTags(show, tags)),
