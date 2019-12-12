@@ -1,5 +1,1494 @@
 [
     {
+        "name": "NOVEMBER 30, 2019 - NUREMBERG, GERMANY",
+        "flac": "https://store.snarkypuppy.com/products/november-30-2019-nuremberg-germany-flac",
+        "mp3": "https://store.snarkypuppy.com/products/november-30-2019-nuremberg-germany-mp3",
+        "location": "Löwensaal, Nuremberg, Germany",
+        "date": "November 30th, 2019",
+        "setlist": [
+            "Beep Box",
+            "Intelligent Design",
+            "While We're Young",
+            "Bad Kids to the Back",
+            "Young Stuff",
+            "Tio Macaco",
+            "Chonks"
+        ],
+        "encore": [
+            "Sleeper",
+            "Shofukan*",
+            "Lingus"
+        ],
+        "other_artists": {
+            "*": {
+                "TJ Abbonizio": "vox"
+            }
+        },
+        "track_info": null,
+        "artists": {
+            "Zach Brock": "violin",
+            "Chris Bullock": "tenor sax, flute, and alto flute",
+            "Mike “Maz” Maher": "trumpet and flugelhorn",
+            "Justin Stanton": "trumpet and keyboards",
+            "Shaun Martin": "keyboards",
+            "Bobby Sparks": "keyboards",
+            "Chris McQueen": "guitar",
+            "Michael League": "bass",
+            "Jason “JT” Thomas": "drums",
+            "Keita Ogawa": "percussion"
+        },
+        "sound_crew": {
+            "Michael Harrison": "engineering and sound (front of house)",
+            "Matt Recchia": "monitors",
+            "Neil Macintosh": "mixing"
+        }
+    },
+    {
+        "name": "NOVEMBER 29, 2019 - STUTTGART, GERMANY",
+        "flac": "https://store.snarkypuppy.com/products/november-29-2019-stuttgart-germany-flac",
+        "mp3": "https://store.snarkypuppy.com/products/november-29-2019-stuttgart-germany-mp3",
+        "location": "Im Wizemann, Stuttgart, Germany",
+        "date": "November 29th, 2019",
+        "setlist": [
+            "Chrysalis",
+            "Alma",
+            "While We're Young",
+            "Tarova",
+            "Even Us",
+            "Tio Macaco",
+            "Xavi",
+            "Sleeper"
+        ],
+        "encore": [
+            "What About Me?"
+        ],
+        "track_info": null,
+        "artists": {
+            "Zach Brock": "violin",
+            "Chris Bullock": "tenor sax, flute, and alto flute",
+            "Mike “Maz” Maher": "trumpet and flugelhorn",
+            "Justin Stanton": "trumpet and keyboards",
+            "Shaun Martin": "keyboards",
+            "Bobby Sparks": "keyboards",
+            "Chris McQueen": "guitar",
+            "Michael League": "bass",
+            "Jason “JT” Thomas": "drums",
+            "Keita Ogawa": "percussion"
+        },
+        "sound_crew": {
+            "Michael Harrison": "engineering and sound (front of house)",
+            "Matt Recchia": "monitors",
+            "Neil Macintosh": "mixing"
+        }
+    },
+    {
+        "name": "NOVEMBER 28, 2019 - ZURICH, SWITZERLAND",
+        "flac": "https://store.snarkypuppy.com/products/november-28-2019-zurich-switzerland-flac",
+        "mp3": "https://store.snarkypuppy.com/products/november-28-2019-zurich-switzerland-mp3",
+        "location": "Volkshaus Zürich, Zürich, Switzerland",
+        "date": "November 28th, 2019",
+        "setlist": [
+            "Even Us",
+            "Semente",
+            "Bad Kids to the Back",
+            "Ready Wednesday",
+            "Intelligent Design",
+            "While We're Young",
+            "Tio Macaco",
+            "Chonks"
+        ],
+        "encore": [
+            "Lingus",
+            "Shofukan"
+        ],
+        "track_info": null,
+        "artists": {
+            "Zach Brock": "violin",
+            "Chris Bullock": "tenor sax, flute, and alto flute",
+            "Mike “Maz” Maher": "trumpet and flugelhorn",
+            "Justin Stanton": "trumpet and keyboards",
+            "Shaun Martin": "keyboards",
+            "Bobby Sparks": "keyboards",
+            "Chris McQueen": "guitar",
+            "Michael League": "bass",
+            "Jason “JT” Thomas": "drums",
+            "Keita Ogawa": "percussion"
+        },
+        "sound_crew": {
+            "Michael Harrison": "engineering and sound (front of house)",
+            "Matt Recchia": "monitors",
+            "Neil Macintosh": "mixing"
+        }
+    },
+    {
+        "name": "NOVEMBER 27, 2019 - MUNICH, GERMANY",
+        "flac": "https://store.snarkypuppy.com/products/november-27-2019-munich-germany-flac",
+        "mp3": "https://store.snarkypuppy.com/products/november-27-2019-munich-germany-mp3",
+        "location": "Muffathalle, Munich, Germany",
+        "date": "November 27th, 2019",
+        "setlist": [
+            "Embossed",
+            "Alma",
+            "While We're Young",
+            "Bigly Strictness",
+            "Bad Kids to the Back",
+            "Xavi",
+            "Thing of Gold",
+            "Chonks"
+        ],
+        "encore": [
+            "Sleeper"
+        ],
+        "track_info": null,
+        "artists": {
+            "Zach Brock": "violin",
+            "Chris Bullock": "tenor sax, flute, and alto flute",
+            "Mike “Maz” Maher": "trumpet and flugelhorn",
+            "Justin Stanton": "trumpet and keyboards",
+            "Shaun Martin": "keyboards",
+            "Bobby Sparks": "keyboards",
+            "Chris McQueen": "guitar",
+            "Michael League": "bass",
+            "Jason “JT” Thomas": "drums",
+            "Keita Ogawa": "percussion"
+        },
+        "sound_crew": {
+            "Michael Harrison": "engineering and sound (front of house)",
+            "Matt Recchia": "monitors",
+            "Neil Macintosh": "mixing"
+        }
+    },
+    {
+        "name": "NOVEMBER 26, 2019 - FRANKFURT, GERMANY",
+        "flac": "https://store.snarkypuppy.com/products/november-26-2019-frankfurt-germany-flac",
+        "mp3": "https://store.snarkypuppy.com/products/november-26-2019-frankfurt-germany-mp3",
+        "location": "Batschkapp, Frankfurt, Germany",
+        "date": "November 26th, 2019",
+        "setlist": [
+            "Intelligent Design",
+            "While We're Young",
+            "Semente",
+            "Bigly Strictness",
+            "Xavi",
+            "Tarova",
+            "What About Me?*"
+        ],
+        "encore": [
+            "Lingus#",
+            "Quarter Master*#"
+        ],
+        "other_artists": {
+            "*": {
+                "Chris Potter": "tenor sax"
+            },
+            "#": {
+                "Eric Harland": "drums"
+            }
+        },
+        "track_info": null,
+        "artists": {
+            "Zach Brock": "violin",
+            "Chris Bullock": "tenor sax, flute, and alto flute",
+            "Mike “Maz” Maher": "trumpet and flugelhorn",
+            "Justin Stanton": "trumpet and keyboards",
+            "Shaun Martin": "keyboards",
+            "Bobby Sparks": "keyboards",
+            "Chris McQueen": "guitar",
+            "Michael League": "bass",
+            "Jason “JT” Thomas": "drums",
+            "Keita Ogawa": "percussion"
+        },
+        "sound_crew": {
+            "Michael Harrison": "engineering and sound (front of house)",
+            "Matt Recchia": "monitors",
+            "Neil Macintosh": "mixing"
+        }
+    },
+    {
+        "name": "NOVEMBER 25, 2019 - LUXEMBOURG CITY, LUXEMBOURG",
+        "flac": "https://store.snarkypuppy.com/products/november-25-2019-luxembourg-city-luxembourg-flac",
+        "mp3": "https://store.snarkypuppy.com/products/november-25-2019-luxembourg-city-luxembourg-mp3",
+        "location": "Rockhal, Luxembourg City, Luxembourg",
+        "date": "November 25th, 2019",
+        "setlist": [
+            "Alma",
+            "Chrysalis",
+            "Bigly Strictness",
+            "Tarova",
+            "Gemini",
+            "Grown Folks",
+            "Tio Macaco",
+            "Chonks"
+        ],
+        "encore": [
+            "Bad Kids to the Back"
+        ],
+        "track_info": null,
+        "artists": {
+            "Zach Brock": "violin",
+            "Chris Bullock": "tenor sax, flute, and alto flute",
+            "Mike “Maz” Maher": "trumpet and flugelhorn",
+            "Justin Stanton": "trumpet and keyboards",
+            "Shaun Martin": "keyboards",
+            "Bobby Sparks": "keyboards",
+            "Chris McQueen": "guitar",
+            "Michael League": "bass",
+            "Jason “JT” Thomas": "drums",
+            "Keita Ogawa": "percussion"
+        },
+        "sound_crew": {
+            "Michael Harrison": "engineering and sound (front of house)",
+            "Matt Recchia": "monitors",
+            "Neil Macintosh": "mixing"
+        }
+    },
+    {
+        "name": "NOVEMBER 23, 2019 - TOURCOING, FRANCE",
+        "flac": "https://store.snarkypuppy.com/products/november-23-2019-tourcoing-france-flac",
+        "mp3": "https://store.snarkypuppy.com/products/november-23-2019-tourcoing-france-mp3",
+        "location": "Théâtre Municipal Raymond Devos, Tourcoing, France",
+        "date": "November 23rd, 2019",
+        "setlist": [
+            "Even Us",
+            "Embossed",
+            "Alma",
+            "Xavi",
+            "Semente",
+            "Flood",
+            "Bad Kids to the Back",
+            "Sleeper"
+        ],
+        "encore": [
+            "Lingus"
+        ],
+        "track_info": null,
+        "artists": {
+            "Zach Brock": "violin",
+            "Chris Bullock": "tenor sax, flute, and alto flute",
+            "Mike “Maz” Maher": "trumpet and flugelhorn",
+            "Justin Stanton": "trumpet and keyboards",
+            "Shaun Martin": "keyboards",
+            "Bobby Sparks": "keyboards",
+            "Chris McQueen": "guitar",
+            "Michael League": "bass",
+            "Jason “JT” Thomas": "drums",
+            "Keita Ogawa": "percussion"
+        },
+        "sound_crew": {
+            "Michael Harrison": "engineering and sound (front of house)",
+            "Matt Recchia": "monitors",
+            "Neil Macintosh": "mixing"
+        }
+    },
+    {
+        "name": "NOVEMBER 22, 2019 - PARIS, FRANCE",
+        "flac": "https://store.snarkypuppy.com/products/november-22-2019-paris-france-flac",
+        "mp3": "https://store.snarkypuppy.com/products/november-22-2019-paris-france-mp3",
+        "location": "Salle Pleyel, Paris, France",
+        "date": "November 22nd, 2019",
+        "setlist": [
+            "Kite",
+            "Intelligent Design",
+            "While We're Young",
+            "Bad Kids to the Back",
+            "Bigly Strictness",
+            "Tio Macaco",
+            "Thing of Gold",
+            "Chonks"
+        ],
+        "encore": [
+            "Xavi",
+            "Shofukan",
+            "What About Me?"
+        ],
+        "track_info": null,
+        "artists": {
+            "Zach Brock": "violin",
+            "Chris Bullock": "tenor sax, flute, and alto flute",
+            "Mike “Maz” Maher": "trumpet and flugelhorn",
+            "Justin Stanton": "trumpet and keyboards",
+            "Shaun Martin": "keyboards",
+            "Bobby Sparks": "keyboards",
+            "Chris McQueen": "guitar",
+            "Michael League": "bass",
+            "Jason “JT” Thomas": "drums",
+            "Keita Ogawa": "percussion"
+        },
+        "sound_crew": {
+            "Michael Harrison": "engineering and sound (front of house)",
+            "Matt Recchia": "monitors",
+            "Neil Macintosh": "mixing"
+        }
+    },
+    {
+        "name": "NOVEMBER 20, 2019 - BORDEAUX, FRANCE",
+        "flac": "https://store.snarkypuppy.com/products/november-20-2019-bordeaux-france-flac",
+        "mp3": "https://store.snarkypuppy.com/products/november-20-2019-bordeaux-france-mp3",
+        "location": "Cenon Le Rocher de Palmer, Bordeaux, France",
+        "date": "November 20th, 2019",
+        "setlist": [
+            "Coven",
+            "Intelligent Design",
+            "While We're Young",
+            "Bad Kids to the Back",
+            "Gemini",
+            "Tio Macaco",
+            "Thing of Gold",
+            "Chonks"
+        ],
+        "encore": [
+            "Xavi"
+        ],
+        "track_info": null,
+        "artists": {
+            "Zach Brock": "violin",
+            "Chris Bullock": "tenor sax, flute, and alto flute",
+            "Mike “Maz” Maher": "trumpet and flugelhorn",
+            "Justin Stanton": "trumpet and keyboards",
+            "Shaun Martin": "keyboards",
+            "Bobby Sparks": "keyboards",
+            "Chris McQueen": "guitar",
+            "Michael League": "bass",
+            "Jason “JT” Thomas": "drums",
+            "Keita Ogawa": "percussion"
+        },
+        "sound_crew": {
+            "Michael Harrison": "engineering and sound (front of house)",
+            "Matt Recchia": "monitors",
+            "Neil Macintosh": "mixing"
+        }
+    },
+    {
+        "name": "NOVEMBER 19, 2019 - TOULOUSE, FRANCE",
+        "flac": "https://store.snarkypuppy.com/products/november-19-2019-toulouse-france-flac",
+        "mp3": "https://store.snarkypuppy.com/products/november-19-2019-toulouse-france-mp3",
+        "location": "Le Zenith, Toulouse, France",
+        "date": "November 19th, 2019",
+        "setlist": [
+            "Beep Box",
+            "Embossed",
+            "Intelligent Design",
+            "Bigly Strictness",
+            "Tarova",
+            "Flood",
+            "Bad Kids to the Back",
+            "Ready Wednesday",
+            "Chonks"
+        ],
+        "encore": [
+            "Lingus"
+        ],
+        "track_info": null,
+        "artists": {
+            "Zach Brock": "violin",
+            "Chris Bullock": "tenor sax, flute, and alto flute",
+            "Mike “Maz” Maher": "trumpet and flugelhorn",
+            "Justin Stanton": "trumpet and keyboards",
+            "Shaun Martin": "keyboards",
+            "Bobby Sparks": "keyboards",
+            "Chris McQueen": "guitar",
+            "Michael League": "bass",
+            "Jason “JT” Thomas": "drums",
+            "Keita Ogawa": "percussion"
+        },
+        "sound_crew": {
+            "Michael Harrison": "engineering and sound (front of house)",
+            "Matt Recchia": "monitors",
+            "Neil Macintosh": "mixing"
+        }
+    },
+    {
+        "name": "NOVEMBER 18, 2019 - NANTES, FRANCE",
+        "flac": "https://store.snarkypuppy.com/products/november-18-2019-nantes-france-flac",
+        "mp3": "https://store.snarkypuppy.com/products/november-18-2019-nantes-france-mp3",
+        "location": "Zenith Club, Nantes, France",
+        "date": "November 18th, 2019",
+        "setlist": [
+            "Alma",
+            "While We're Young",
+            "GØ",
+            "Bad Kids to the Back",
+            "Gemini",
+            "Chonks",
+            "Tio Macaco",
+            "Sleeper"
+        ],
+        "encore": [
+            "Xavi"
+        ],
+        "track_info": null,
+        "artists": {
+            "Zach Brock": "violin",
+            "Chris Bullock": "tenor sax, flute, and alto flute",
+            "Mike “Maz” Maher": "trumpet and flugelhorn",
+            "Justin Stanton": "trumpet and keyboards",
+            "Shaun Martin": "keyboards",
+            "Bobby Sparks": "keyboards",
+            "Chris McQueen": "guitar",
+            "Michael League": "bass",
+            "Jason “JT” Thomas": "drums",
+            "Keita Ogawa": "percussion"
+        },
+        "sound_crew": {
+            "Michael Harrison": "engineering and sound (front of house)",
+            "Matt Recchia": "monitors",
+            "Neil Macintosh": "mixing"
+        }
+    },
+    {
+        "name": "NOVEMBER 16, 2019 - GLASGOW SCOTLAND",
+        "flac": "https://store.snarkypuppy.com/products/november-16-2019-glasgow-scotland-flac",
+        "mp3": "https://store.snarkypuppy.com/products/november-16-2019-glasgow-scotland-mp3",
+        "location": "Barrowlands, Glasgow, United Kingdom",
+        "date": "November 16th, 2019",
+        "setlist": [
+            "Flood",
+            "Embossed",
+            "Tarova",
+            "While We're Young",
+            "Xavi",
+            "Young Stuff",
+            "Tio Macaco",
+            "Chonks"
+        ],
+        "encore": [
+            "Lingus"
+        ],
+        "track_info": null,
+        "artists": {
+            "Zach Brock": "violin",
+            "Chris Bullock": "tenor sax, flute, and alto flute",
+            "Mike “Maz” Maher": "trumpet and flugelhorn",
+            "Justin Stanton": "trumpet and keyboards",
+            "Shaun Martin": "keyboards",
+            "Bobby Sparks": "keyboards",
+            "Mark Lettieri": "guitar",
+            "Michael League": "bass",
+            "Jason “JT” Thomas": "drums",
+            "Keita Ogawa": "percussion"
+        },
+        "sound_crew": {
+            "Michael Harrison": "engineering and sound (front of house)",
+            "Matt Recchia": "monitors",
+            "Neil Macintosh": "mixing"
+        }
+    },
+    {
+        "name": "NOVEMBER 15, 2019 - MANCHESTER, UK",
+        "flac": "https://store.snarkypuppy.com/products/november-15-2019-manchester-uk-flac",
+        "mp3": "https://store.snarkypuppy.com/products/november-15-2019-manchester-uk-mp3",
+        "location": "O2 Apollo, Manchester, United Kingdom",
+        "date": "November 15th, 2019",
+        "setlist": [
+            "Kite",
+            "Chrysalis",
+            "Semente",
+            "While We're Young",
+            "Chonks",
+            "Bad Kids to the Back",
+            "Thing of Golf",
+            "Ready Wednesday"
+        ],
+        "encore": [
+            "What About Me?"
+        ],
+        "track_info": null,
+        "artists": {
+            "Zach Brock": "violin",
+            "Bob Reynolds": "saxophone",
+            "Chris Bullock": "tenor sax, flute, and alto flute",
+            "Mike “Maz” Maher": "trumpet and flugelhorn",
+            "Justin Stanton": "trumpet and keyboards",
+            "Shaun Martin": "keyboards",
+            "Bobby Sparks": "keyboards",
+            "Mark Lettieri": "guitar",
+            "Michael League": "bass",
+            "Jason “JT” Thomas": "drums",
+            "Keita Ogawa": "percussion"
+        },
+        "sound_crew": {
+            "Michael Harrison": "engineering and sound (front of house)",
+            "Matt Recchia": "monitors",
+            "Neil Macintosh": "mixing"
+        }
+    },
+    {
+        "name": "NOVEMBER 14, 2019 - LONDON, UK",
+        "flac": "https://liveherenow.co.uk/products/snarky-puppy-download",
+        "mp3": "https://liveherenow.co.uk/products/snarky-puppy-download",
+        "location": "Royal Albert Hall, London, United Kingdom",
+        "date": "November 14th, 2019",
+        "setlist": [
+            "Even Us",
+            "Intelligent Design",
+            "While We're Young",
+            "Alma",
+            "Bad Kids to the Back",
+            "Bigly Strictness",
+            "Tarova",
+            "Xavi",
+            "Chonks",
+            "Sleeper"
+        ],
+        "encore": [
+            "Shofukan"
+        ],
+        "track_info": null,
+        "artists": {
+            "Zach Brock": "violin",
+            "Bob Reynolds": "saxophone",
+            "Chris Bullock": "tenor sax, flute, and alto flute",
+            "Mike “Maz” Maher": "trumpet and flugelhorn",
+            "Justin Stanton": "trumpet and keyboards",
+            "Bill Laurance": "keyboards",
+            "Shaun Martin": "keyboards",
+            "Bobby Sparks": "keyboards",
+            "Mark Lettieri": "guitar",
+            "Michael League": "bass",
+            "Jason “JT” Thomas": "drums",
+            "Keita Ogawa": "percussion",
+            "Marcelo Woloski": "percussion"
+        }
+    },
+    {
+        "name": "NOVEMBER 12, 2019 - DUBLIN, IRELAND",
+        "flac": "https://store.snarkypuppy.com/products/november-12-2019-dublin-ireland-flac",
+        "mp3": "https://store.snarkypuppy.com/products/november-12-2019-dublin-ireland-mp3",
+        "location": "Olympia, Dublin, Ireland",
+        "date": "November 12th, 2019",
+        "setlist": [
+            "Embossed",
+            "While We're Young",
+            "Intelligent Design",
+            "Bigly Strictness",
+            "Bad Kids to the Back",
+            "Tio Macaco",
+            "Thing of Gold",
+            "Chonks"
+        ],
+        "encore": [
+            "Shofukan"
+        ],
+        "track_info": null,
+        "artists": {
+            "Zach Brock": "violin",
+            "Bob Reynolds": "saxophone",
+            "Chris Bullock": "tenor sax, flute, and alto flute",
+            "Mike “Maz” Maher": "trumpet and flugelhorn",
+            "Justin Stanton": "trumpet and keyboards",
+            "Shaun Martin": "keyboards",
+            "Mark Lettieri": "guitar",
+            "Michael League": "bass",
+            "Jason “JT” Thomas": "drums",
+            "Keita Ogawa": "percussion"
+        },
+        "sound_crew": {
+            "Michael Harrison": "engineering and sound (front of house)",
+            "Matt Recchia": "monitors",
+            "Neil Macintosh": "mixing"
+        }
+    },
+    {
+        "name": "NOVEMBER 11, 2019 - BELFAST, NORTHERN IRELAND",
+        "flac": "https://store.snarkypuppy.com/products/november-11-2019-belfast-northern-ireland-flac",
+        "mp3": "https://store.snarkypuppy.com/products/november-11-2019-belfast-northern-ireland-mp3",
+        "location": "Ulster Hall, Belfast, Northern Ireland",
+        "date": "November 11th, 2019",
+        "setlist": [
+            "Even Us",
+            "Alma",
+            "Ready Wednesday",
+            "Bad Kids to the Back",
+            "Gemini",
+            "Xavi",
+            "Tio Macaco",
+            "Sleeper"
+        ],
+        "encore": [
+            "Chonks"
+        ],
+        "track_info": null,
+        "artists": {
+            "Zach Brock": "violin",
+            "Bob Reynolds": "saxophone",
+            "Chris Bullock": "tenor sax, flute, and alto flute",
+            "Mike “Maz” Maher": "trumpet and flugelhorn",
+            "Justin Stanton": "trumpet and keyboards",
+            "Shaun Martin": "keyboards",
+            "Mark Lettieri": "guitar",
+            "Michael League": "bass",
+            "Jason “JT” Thomas": "drums",
+            "Keita Ogawa": "percussion"
+        },
+        "sound_crew": {
+            "Michael Harrison": "engineering and sound (front of house)",
+            "Matt Recchia": "monitors",
+            "Neil Macintosh": "mixing"
+        }
+    },
+    {
+        "name": "NOVEMBER 9, 2019 - OXFORD, UK",
+        "flac": "https://store.snarkypuppy.com/products/november-9-2019-oxford-uk-flac",
+        "mp3": "https://store.snarkypuppy.com/products/november-9-2019-oxford-uk-mp3",
+        "location": "O2 Academy, Oxford, United Kingdom",
+        "date": "November 9th, 2019",
+        "setlist": [
+            "Kite",
+            "Chrysalis",
+            "While We're Young",
+            "Outlier",
+            "Intelligent Design",
+            "Grown Folks",
+            "Xavi"
+        ],
+        "encore": [
+            "What About Me?"
+        ],
+        "track_info": null,
+        "artists": {
+            "Bob Reynolds": "saxophone",
+            "Chris Bullock": "tenor sax, flute, and alto flute",
+            "Mike “Maz” Maher": "trumpet and flugelhorn",
+            "Justin Stanton": "trumpet and keyboards",
+            "Shaun Martin": "keyboards",
+            "Mark Lettieri": "guitar",
+            "Michael League": "bass",
+            "Jason “JT” Thomas": "drums",
+            "Marcelo Woloski": "percussion"
+        },
+        "sound_crew": {
+            "Michael Harrison": "engineering and sound (front of house)",
+            "Matt Recchia": "monitors",
+            "Neil Macintosh": "mixing"
+        }
+    },
+    {
+        "name": "NOVEMBER 8, 2019 - BRISTOL, UK",
+        "flac": "https://store.snarkypuppy.com/products/november-8-2019-bristol-uk-flac",
+        "mp3": "https://store.snarkypuppy.com/products/november-8-2019-bristol-uk-mp3",
+        "location": "O2 Academy, Bristol, United Kingdom",
+        "date": "November 8th, 2019",
+        "setlist": [
+            "Alma",
+            "Thing of Gold",
+            "Bad Kids to the Back",
+            "Tarova",
+            "Palermo",
+            "Chonks",
+            "Xavi*"
+        ],
+        "encore": [
+            "Shofukan"
+        ],
+        "other_artists": {
+            "*": {
+                "Keita Ogawa": "percussion"
+            }
+        },
+        "track_info": null,
+        "artists": {
+            "Bob Reynolds": "saxophone",
+            "Chris Bullock": "tenor sax, flute, and alto flute",
+            "Mike “Maz” Maher": "trumpet and flugelhorn",
+            "Justin Stanton": "trumpet and keyboards",
+            "Shaun Martin": "keyboards",
+            "Mark Lettieri": "guitar",
+            "Michael League": "bass",
+            "Jason “JT” Thomas": "drums",
+            "Marcelo Woloski": "percussion"
+        },
+        "sound_crew": {
+            "Michael Harrison": "engineering and sound (front of house)",
+            "Matt Recchia": "monitors",
+            "Neil Macintosh": "mixing"
+        }
+    },
+    {
+        "name": "NOVEMBER 7, 2019 - NOTTINGHAM, UK",
+        "flac": "https://store.snarkypuppy.com/products/november-7-2019-nottingham-uk-flac",
+        "mp3": "https://store.snarkypuppy.com/products/november-7-2019-nottingham-uk-mp3",
+        "location": "Rock City, Nottingham, UK",
+        "date": "November 7th, 2019",
+        "setlist": [
+            "Embossed",
+            "While We're Young",
+            "Intelligent Design",
+            "Bigly Strictness",
+            "Outlier",
+            "Gemini",
+            "Tio Macaco*",
+            "Chonks"
+        ],
+        "encore": [
+            "Sleeper"
+        ],
+        "other_artists": {
+            "*": {
+                "Keita Ogawa": "percussion"
+            }
+        },
+        "track_info": null,
+        "artists": {
+            "Bob Reynolds": "saxophone",
+            "Chris Bullock": "tenor sax, flute, and alto flute",
+            "Mike “Maz” Maher": "trumpet and flugelhorn",
+            "Justin Stanton": "trumpet and keyboards",
+            "Shaun Martin": "keyboards",
+            "Mark Lettieri": "guitar",
+            "Michael League": "bass",
+            "Jamison Ross": "drums",
+            "Marcelo Woloski": "percussion"
+        },
+        "sound_crew": {
+            "Michael Harrison": "engineering and sound (front of house)",
+            "Matt Recchia": "monitors",
+            "Neil Macintosh": "mixing"
+        }
+    },
+    {
+        "name": "NOVEMBER 6, 2019 - BOURNEMOUTH, UK",
+        "flac": "https://store.snarkypuppy.com/products/november-6-2019-bournemouth-uk-flac",
+        "mp3": "https://store.snarkypuppy.com/products/november-6-2019-bournemouth-uk-mp3",
+        "location": "O2 Academy, Bournemouth, UK",
+        "date": "November 6th, 2019",
+        "setlist": [
+            "Alma",
+            "Chrysalis",
+            "GØ",
+            "Bad Kids to the Back",
+            "Xavi*",
+            "Thing of Gold",
+            "Chonks"
+        ],
+        "encore": [
+            "What About Me?"
+        ],
+        "other_artists": {
+            "*": {
+                "Ross Pederson": "percussion"
+            }
+        },
+        "track_info": null,
+        "artists": {
+            "Bob Reynolds": "saxophone",
+            "Chris Bullock": "tenor sax, flute, and alto flute",
+            "Mike “Maz” Maher": "trumpet and flugelhorn",
+            "Justin Stanton": "trumpet and keyboards",
+            "Shaun Martin": "keyboards",
+            "Mark Lettieri": "guitar",
+            "Michael League": "bass",
+            "Jamison Ross": "drums",
+            "Marcelo Woloski": "percussion"
+        },
+        "sound_crew": {
+            "Michael Harrison": "engineering and sound (front of house)",
+            "Matt Recchia": "monitors",
+            "Neil Macintosh": "mixing"
+        }
+    },
+    {
+        "name": "NOVEMBER 4, 2019 - ANTWERP, BELGIUM",
+        "flac": "https://store.snarkypuppy.com/products/november-4-2019-antwerp-belgium-flac",
+        "mp3": "https://store.snarkypuppy.com/products/november-4-2019-antwerp-belgium-mp3",
+        "location": "De Roma, Antwerp, Belgium",
+        "date": "November 4th, 2019",
+        "setlist": [
+            "Chrysalis",
+            "Semente",
+            "While We're Young",
+            "Intelligent Design",
+            "Bigly Strictness",
+            "Bad Kids to the Back",
+            "Palermo",
+            "Chonks",
+            "Shofukan"
+        ],
+        "encore": [
+            "Xavi"
+        ],
+        "track_info": null,
+        "artists": {
+            "Bob Reynolds": "saxophone",
+            "Chris Bullock": "tenor sax, flute, and alto flute",
+            "Mike “Maz” Maher": "trumpet and flugelhorn",
+            "Justin Stanton": "trumpet and keyboards",
+            "Shaun Martin": "keyboards",
+            "Mark Lettieri": "guitar",
+            "Michael League": "bass",
+            "Jamison Ross": "drums",
+            "Marcelo Woloski": "percussion"
+        },
+        "sound_crew": {
+            "Michael Harrison": "engineering and sound (front of house)",
+            "Matt Recchia": "monitors",
+            "Neil Macintosh": "mixing"
+        }
+    },
+    {
+        "name": "NOVEMBER 2, 2019 - EINDHOVEN, NETHERLANDS",
+        "flac": "https://store.snarkypuppy.com/products/november-2-2019-eindhoven-netherlands-flac",
+        "mp3": "https://store.snarkypuppy.com/products/november-2-2019-eindhoven-netherlands-mp3",
+        "location": "Muziekgebouw, Eindhoven, Netherlands",
+        "date": "November 2nd, 2019",
+        "setlist": [
+            "Coven",
+            "Embossed",
+            "While We're Young",
+            "Ready Wednesday",
+            "Bad Kids to the Back",
+            "Gemini",
+            "Chonks",
+            "Xavi*"
+        ],
+        "encore": [
+            "What About Me?"
+        ],
+        "other_artists": {
+            "*": {
+                "Ross Pederson": "drums"
+            }
+        },
+        "track_info": null,
+        "artists": {
+            "Bob Reynolds": "saxophone",
+            "Chris Bullock": "tenor sax, flute, and alto flute",
+            "Mike “Maz” Maher": "trumpet and flugelhorn",
+            "Justin Stanton": "trumpet and keyboards",
+            "Shaun Martin": "keyboards",
+            "Mark Lettieri": "guitar",
+            "Michael League": "bass",
+            "Jamison Ross": "drums",
+            "Marcelo Woloski": "percussion"
+        },
+        "sound_crew": {
+            "Michael Harrison": "engineering and sound (front of house)",
+            "Matt Recchia": "monitors",
+            "Neil Macintosh": "mixing"
+        }
+    },
+    {
+        "name": "NOVEMBER 1, 2019 - UTRECHT, NETHERLANDS",
+        "flac": "https://store.snarkypuppy.com/products/november-1-2019-utrecht-netherlands-flac",
+        "mp3": "https://store.snarkypuppy.com/products/november-1-2019-utrecht-netherlands-mp3",
+        "location": "TivoliVredenburg, Utrecht, Netherlands",
+        "date": "November 1st, 2019",
+        "setlist": [
+            "Even Us",
+            "Bigly Strictness",
+            "Semente",
+            "Bad Kids to the Back",
+            "Chonks",
+            "Thing of Gold",
+            "Xavi*"
+        ],
+        "encore": [
+            "Sleeper"
+        ],
+        "other_artists": {
+            "*": {
+                "Ross Pederson": "drums"
+            }
+        },
+        "track_info": null,
+        "artists": {
+            "Bob Reynolds": "saxophone",
+            "Chris Bullock": "tenor sax, flute, and alto flute",
+            "Mike “Maz” Maher": "trumpet and flugelhorn",
+            "Justin Stanton": "trumpet and keyboards",
+            "Shaun Martin": "keyboards",
+            "Mark Lettieri": "guitar",
+            "Michael League": "bass",
+            "Jamison Ross": "drums",
+            "Marcelo Woloski": "percussion"
+        },
+        "sound_crew": {
+            "Michael Harrison": "engineering and sound (front of house)",
+            "Matt Recchia": "monitors",
+            "Neil Macintosh": "mixing"
+        }
+    },
+    {
+        "name": "OCTOBER 31, 2019 - HANNOVER, GERMANY",
+        "flac": "https://store.snarkypuppy.com/products/october-31-2019-hannover-germany-flac",
+        "mp3": "https://store.snarkypuppy.com/products/october-31-2019-hannover-germany-mp3",
+        "location": "Capitol Hannover, Hannover, Germany",
+        "date": "October 31st, 2019",
+        "setlist": [
+            "Coven",
+            "Embossed",
+            "While We're Young",
+            "Bad Kids to the Back",
+            "Tarova",
+            "Tio Macaco",
+            "Chonks",
+            "Shofukan"
+        ],
+        "encore": [
+            "Lingus"
+        ],
+        "track_info": null,
+        "artists": {
+            "Bob Reynolds": "saxophone",
+            "Chris Bullock": "tenor sax, flute, and alto flute",
+            "Mike “Maz” Maher": "trumpet and flugelhorn",
+            "Justin Stanton": "trumpet and keyboards",
+            "Shaun Martin": "keyboards",
+            "Mark Lettieri": "guitar",
+            "Michael League": "bass",
+            "Mark Simmons": "drums",
+            "Marcelo Woloski": "percussion"
+        },
+        "sound_crew": {
+            "Michael Harrison": "engineering and sound (front of house)",
+            "Matt Recchia": "monitors",
+            "Neil Macintosh": "mixing"
+        }
+    },
+    {
+        "name": "OCTOBER 30, 2019 - COLOGNE, GERMANY",
+        "flac": "https://store.snarkypuppy.com/products/october-30-2019-cologne-germany-flac",
+        "mp3": "https://store.snarkypuppy.com/products/october-30-2019-cologne-germany-mp3",
+        "location": "E-Werk, Cologne, Germany",
+        "date": "October 30th, 2019",
+        "setlist": [
+            "Even Us",
+            "Embossed",
+            "Coven",
+            "Bad Kids to the Back",
+            "Tarova",
+            "While We're Young",
+            "Chonks",
+            "Tio Macaco",
+            "Shofukan"
+        ],
+        "encore": [
+            "Lingus"
+        ],
+        "track_info": null,
+        "artists": {
+            "Bob Reynolds": "saxophone",
+            "Chris Bullock": "tenor sax, flute, and alto flute",
+            "Mike “Maz” Maher": "trumpet and flugelhorn",
+            "Justin Stanton": "trumpet and keyboards",
+            "Shaun Martin": "keyboards",
+            "Mark Lettieri": "guitar",
+            "Michael League": "bass",
+            "Mark Simmons": "drums",
+            "Marcelo Woloski": "percussion"
+        },
+        "sound_crew": {
+            "Michael Harrison": "engineering and sound (front of house)",
+            "Matt Recchia": "monitors",
+            "Neil Macintosh": "mixing"
+        }
+    },
+    {
+        "name": "OCTOBER 29, 2019 - BERLIN, GERMANY",
+        "flac": "https://store.snarkypuppy.com/products/october-29-2019-berlin-germany-flac",
+        "mp3": "https://store.snarkypuppy.com/products/october-29-2019-berlin-germany-mp3",
+        "location": "Columbia Halle, Berlin, Germany",
+        "date": "October 29th, 2019",
+        "setlist": [
+            "Even Us",
+            "Embossed",
+            "Coven",
+            "Bad Kids to the Back",
+            "Tarova",
+            "While We're Young",
+            "Chonks",
+            "Tio Macaco",
+            "Shofukan"
+        ],
+        "encore": [
+            "Lingus"
+        ],
+        "track_info": null,
+        "artists": {
+            "Bob Reynolds": "saxophone",
+            "Chris Bullock": "tenor sax, flute, and alto flute",
+            "Mike “Maz” Maher": "trumpet and flugelhorn",
+            "Justin Stanton": "trumpet and keyboards",
+            "Shaun Martin": "keyboards",
+            "Mark Lettieri": "guitar",
+            "Michael League": "bass",
+            "Mark Simmons": "drums",
+            "Marcelo Woloski": "percussion"
+        },
+        "sound_crew": {
+            "Michael Harrison": "engineering and sound (front of house)",
+            "Matt Recchia": "monitors",
+            "Neil Macintosh": "mixing"
+        }
+    },
+    {
+        "name": "OCTOBER 26, 2019 - HAMBURG, GERMANY",
+        "flac": "https://store.snarkypuppy.com/products/october-26-2019-hamburg-germany-flac",
+        "mp3": "https://store.snarkypuppy.com/products/october-26-2019-hamburg-germany-mp3",
+        "location": "Grobe Freiheit 36, Hamburg, Germany",
+        "date": "October 26th, 2019",
+        "setlist": [
+            "Even Us",
+            "GØ",
+            "Bigly Strictness",
+            "Bad Kids to the Back",
+            "Alma",
+            "Chonks",
+            "Thing of Gold",
+            "Xavi"
+        ],
+        "encore": [
+            "Shofukan"
+        ],
+        "track_info": null,
+        "artists": {
+            "Bob Reynolds": "saxophone",
+            "Chris Bullock": "tenor sax, flute, and alto flute",
+            "Mike “Maz” Maher": "trumpet and flugelhorn",
+            "Justin Stanton": "trumpet and keyboards",
+            "Shaun Martin": "keyboards",
+            "Mark Lettieri": "guitar",
+            "Chris McQueen": "guitar",
+            "Michael League": "bass",
+            "Jason “JT” Thomas": "drums",
+            "Marcelo Woloski": "percussion"
+        },
+        "sound_crew": {
+            "Michael Harrison": "engineering and sound (front of house)",
+            "Matt Recchia": "monitors",
+            "Neil Macintosh": "mixing"
+        }
+    },
+    {
+        "name": "OCTOBER 25, 2019 - AARHUS, DENMARK",
+        "flac": "https://store.snarkypuppy.com/products/october-25-2019-aarhus-denmark-flac",
+        "mp3": "https://store.snarkypuppy.com/products/october-25-2019-aarhus-denmark-mp3",
+        "location": "Train, Aarhus, DK",
+        "date": "October 24th, 2019",
+        "setlist": [
+            "Coven",
+            "Embossed",
+            "Gemini",
+            "Bigly Strictness",
+            "Intelligent Design",
+            "Bad Kids to the Back",
+            "Chonks",
+            "Sleeper"
+        ],
+        "encore": [
+            "Xavi"
+        ],
+        "track_info": null,
+        "artists": {
+            "Bob Reynolds": "saxophone",
+            "Chris Bullock": "tenor sax, flute, and alto flute",
+            "Mike “Maz” Maher": "trumpet and flugelhorn",
+            "Justin Stanton": "trumpet and keyboards",
+            "Shaun Martin": "keyboards",
+            "Mark Lettieri": "guitar",
+            "Chris McQueen": "guitar",
+            "Michael League": "bass",
+            "Jason “JT” Thomas": "drums",
+            "Marcelo Woloski": "percussion"
+        },
+        "sound_crew": {
+            "Michael Harrison": "engineering and sound (front of house)",
+            "Matt Recchia": "monitors",
+            "Neil Macintosh": "mixing"
+        }
+    },
+    {
+        "name": "OCTOBER 24, 2019 - COPENHAGEN, DENMARK",
+        "flac": "https://store.snarkypuppy.com/products/october-24-2019-copenhagen-denmark-flac",
+        "mp3": "https://store.snarkypuppy.com/products/october-24-2019-copenhagen-denmark-mp3",
+        "location": "Falkoner Center, Copenhagen, Denmark",
+        "date": "October 24th, 2019",
+        "setlist": [
+            "Flood",
+            "Chrysalis",
+            "Tarova",
+            "Bad Kids to the Back",
+            "Semente",
+            "Chonks",
+            "Palermo",
+            "Xavi"
+        ],
+        "encore": [
+            "Lingus"
+        ],
+        "track_info": null,
+        "artists": {
+            "Bob Reynolds": "saxophone",
+            "Chris Bullock": "tenor sax, flute, and alto flute",
+            "Mike “Maz” Maher": "trumpet and flugelhorn",
+            "Justin Stanton": "trumpet and keyboards",
+            "Shaun Martin": "keyboards",
+            "Mark Lettieri": "guitar",
+            "Chris McQueen": "guitar",
+            "Michael League": "bass",
+            "Jason “JT” Thomas": "drums",
+            "Marcelo Woloski": "percussion"
+        },
+        "sound_crew": {
+            "Michael Harrison": "engineering and sound (front of house)",
+            "Matt Recchia": "monitors",
+            "Neil Macintosh": "mixing"
+        }
+    },
+    {
+        "name": "OCTOBER 23, 2019 - STOCKHOLM, SWEDEN",
+        "flac": "https://store.snarkypuppy.com/products/copy-of-october-23-2019-stockholm-sweden-flac",
+        "mp3": "https://store.snarkypuppy.com/products/october-23-2019-stockholm-sweden-mp3",
+        "location": "Cirkus Arena, Stockholm, Sweden",
+        "date": "October 23rd, 2019",
+        "setlist": [
+            "Embossed",
+            "Coven",
+            "Bigly Strictness",
+            "Grown Folks",
+            "Xavi",
+            "Tio Macaco",
+            "Lingus"
+        ],
+        "encore": [
+            "Even Us^"
+        ],
+        "other_artists": {
+            "^": {
+                "Väsen": "unknown"
+            }
+        },
+        "track_info": null,
+        "artists": {
+            "Bob Reynolds": "saxophone",
+            "Chris Bullock": "tenor sax, flute, and alto flute",
+            "Mike “Maz” Maher": "trumpet and flugelhorn",
+            "Justin Stanton": "trumpet and keyboards",
+            "Shaun Martin": "keyboards",
+            "Mark Lettieri": "guitar",
+            "Chris McQueen": "guitar",
+            "Michael League": "bass",
+            "Jason “JT” Thomas": "drums",
+            "Marcelo Woloski": "percussion"
+        },
+        "sound_crew": {
+            "Michael Harrison": "engineering and sound (front of house)",
+            "Matt Recchia": "monitors",
+            "Neil Macintosh": "mixing"
+        }
+    },
+    {
+        "name": "OCTOBER 22, 2019 - OSLO, NORWAY",
+        "flac": "https://store.snarkypuppy.com/products/october-22-2019-oslo-norway-flac-1",
+        "mp3": "https://store.snarkypuppy.com/products/october-22-2019-oslo-norway-mp3",
+        "location": "Sentrum Scene, Oslo, Norway",
+        "date": "October 22nd, 2019",
+        "setlist": [
+            "Kite",
+            "Chrysalis",
+            "Semente",
+            "Bigly Strictness",
+            "Bad Kids to the Back",
+            "Tarova",
+            "Thing of Gold",
+            "Xavi"
+        ],
+        "encore": [
+            "What About Me?"
+        ],
+        "track_info": null,
+        "artists": {
+            "Bob Reynolds": "saxophone",
+            "Chris Bullock": "tenor sax, flute, and alto flute",
+            "Mike “Maz” Maher": "trumpet and flugelhorn",
+            "Justin Stanton": "trumpet and keyboards",
+            "Shaun Martin": "keyboards",
+            "Mark Lettieri": "guitar",
+            "Michael League": "bass",
+            "Jason “JT” Thomas": "drums",
+            "Marcelo Woloski": "percussion"
+        },
+        "sound_crew": {
+            "Michael Harrison": "engineering and sound (front of house)",
+            "Matt Recchia": "monitors",
+            "Neil Macintosh": "mixing"
+        }
+    },
+    {
+        "name": "OCTOBER 5, 2019 - DALLAS, TX",
+        "flac": "https://store.snarkypuppy.com/products/october-5-2019-dallas-tx-flac",
+        "mp3": "https://store.snarkypuppy.com/products/october-5-2019-dallas-tx-mp3",
+        "location": "The Bomb Factory, Dallas, TX",
+        "date": "October 5th, 2019",
+        "setlist": [
+            "Embossed",
+            "While We're Young",
+            "Bad Kids to the Back",
+            "Even Us",
+            "Tarova",
+            "Chonks^",
+            "Tio Macaco*",
+            "Sleeper"
+        ],
+        "encore": [
+            "Xavi"
+        ],
+        "other_artists": {
+            "^": {
+                "Philip Dizack": "trumpet"
+            },
+            "*": {
+                "Robert “Sput” Searight": "percussion",
+                "Jason “JT” Thomas": "drums"
+            }
+        },
+        "track_info": null,
+        "artists": {
+            "Bob Reynolds": "saxophone",
+            "Chris Bullock": "tenor sax, flute, and alto flute",
+            "Mike “Maz” Maher": "trumpet and flugelhorn",
+            "Justin Stanton": "trumpet and keyboards",
+            "Bobby Sparks": "keyboards",
+            "Shaun Martin": "keyboards",
+            "Bob Lanzetti": "guitar",
+            "Mark Lettieri": "guitar",
+            "Michael League": "bass",
+            "Jamison Ross": "drums",
+            "Keita Ogawa": "percussion"
+        },
+        "sound_crew": {
+            "Matt Recchia": "engineering and sound (front of house)",
+            "Michael Harrison": "monitors",
+            "Neil Macintosh": "mixing"
+        }
+    },
+    {
+        "name": "OCTOBER 4, 2019 - TULSA, OK",
+        "flac": "https://store.snarkypuppy.com/products/october-4-2019-tulsa-ok-flac",
+        "mp3": "https://store.snarkypuppy.com/products/october-4-2019-tulsa-ok-mp3",
+        "location": "Cain's Ballrooms, Tulsa, OK",
+        "date": "October 4th, 2019",
+        "setlist": [
+            "Beep Box",
+            "Semente",
+            "Bigly Strictness",
+            "Grown Folks",
+            "Embossed",
+            "Flood",
+            "Xavi"
+        ],
+        "encore": [
+            "Shofukan"
+        ],
+        "track_info": null,
+        "artists": {
+            "Bob Reynolds": "saxophone",
+            "Chris Bullock": "tenor sax, flute, and alto flute",
+            "Mike “Maz” Maher": "trumpet and flugelhorn",
+            "Justin Stanton": "trumpet and keyboards",
+            "Bobby Sparks": "keyboards",
+            "Bob Lanzetti": "guitar",
+            "Michael League": "bass",
+            "Jamison Ross": "drums",
+            "Keita Ogawa": "percussion"
+        },
+        "sound_crew": {
+            "Matt Recchia": "engineering and sound (front of house)",
+            "Michael Harrison": "monitors",
+            "Neil Macintosh": "mixing"
+        }
+    },
+    {
+        "name": "OCTOBER 3, 2019 - HOUSTON, TX",
+        "flac": "https://store.snarkypuppy.com/products/october-3-2019-houston-tx-flac",
+        "mp3": "https://store.snarkypuppy.com/products/october-3-2019-houston-tx-mp3",
+        "location": "Warehouse Live, Houston, TX",
+        "date": "October 3rd, 2019",
+        "setlist": [
+            "Even Us",
+            "Chrysalis",
+            "While We're Young",
+            "Tarova",
+            "Gemini",
+            "Bad Kids to the Back",
+            "Xavi"
+        ],
+        "encore": [
+            "Chonks"
+        ],
+        "track_info": null,
+        "artists": {
+            "Bob Reynolds": "saxophone",
+            "Chris Bullock": "tenor sax, flute, and alto flute",
+            "Mike “Maz” Maher": "trumpet and flugelhorn",
+            "Justin Stanton": "trumpet and keyboards",
+            "Bobby Sparks": "keyboards",
+            "Bob Lanzetti": "guitar",
+            "Michael League": "bass",
+            "Jamison Ross": "drums",
+            "Keita Ogawa": "percussion"
+        },
+        "sound_crew": {
+            "Matt Recchia": "engineering and sound (front of house)",
+            "Michael Harrison": "monitors",
+            "Neil Macintosh": "mixing"
+        }
+    },
+    {
+        "name": "SEPTEMBER 28, 2019 - NEW ORLEANS, LA",
+        "flac": "https://store.snarkypuppy.com/products/september-28-2019-new-orleans-la-flac",
+        "mp3": "https://store.snarkypuppy.com/products/september-28-2019-new-orleans-la-mp3",
+        "location": "Music Box Village, New Orleans, LA",
+        "date": "September 28th, 2019",
+        "setlist": [
+            "Binky",
+            "Embossed",
+            "Tarova",
+            "Xavi",
+            "Chonks*",
+            "Tio Macaco"
+        ],
+        "other_artists": {
+            "*": {
+                "Nicholas Payton": "trumpet"
+            }
+        },
+        "track_info": null,
+        "artists": {
+            "Bob Reynolds": "saxophone",
+            "Chris Bullock": "tenor sax, flute, and alto flute",
+            "Mike “Maz” Maher": "trumpet and flugelhorn",
+            "Justin Stanton": "trumpet and keyboards",
+            "Bobby Sparks": "keyboards",
+            "Bob Lanzetti": "guitar",
+            "Michael League": "bass",
+            "Jamison Ross": "drums",
+            "Keita Ogawa": "percussion"
+        },
+        "sound_crew": {
+            "Matt Recchia": "engineering and sound (front of house)",
+            "Michael Harrison": "monitors",
+            "Neil Macintosh": "mixing"
+        }
+    },
+    {
+        "name": "SEPTEMBER 27, 2019 - MOBILE, AL",
+        "flac": "https://store.snarkypuppy.com/products/september-27-2019-mobile-al-flac",
+        "mp3": "https://store.snarkypuppy.com/products/september-27-2019-mobile-al-mp3",
+        "location": "Soul Kitchen, Mobile, AL",
+        "date": "September 27th, 2019",
+        "setlist": [
+            "Coven",
+            "Flood",
+            "Bigly Strictness",
+            "While We're Young",
+            "Embossed",
+            "Tarova",
+            "Thing of Gold",
+            "Quarter Master"
+        ],
+        "encore": [
+            "Even Us"
+        ],
+        "track_info": null,
+        "artists": {
+            "Bob Reynolds": "saxophone",
+            "Chris Bullock": "tenor sax, flute, and alto flute",
+            "Mike “Maz” Maher": "trumpet and flugelhorn",
+            "Justin Stanton": "trumpet and keyboards",
+            "Bobby Sparks": "keyboards",
+            "Bob Lanzetti": "guitar",
+            "Michael League": "bass",
+            "Jamison Ross": "drums",
+            "Keita Ogawa": "percussion"
+        },
+        "sound_crew": {
+            "Matt Recchia": "engineering and sound (front of house)",
+            "Michael Harrison": "monitors",
+            "Neil Macintosh": "mixing"
+        }
+    },
+    {
+        "name": "SEPTEMBER 26, 2019 - CLEARWATER, FL",
+        "flac": "https://store.snarkypuppy.com/products/september-26-2019-clearwater-fl-flac",
+        "mp3": "https://store.snarkypuppy.com/products/september-26-2019-clearwater-fl-mp3",
+        "location": "Ruth Eckerd Hall, Clearwater, FL",
+        "date": "September 26th, 2019",
+        "setlist": [
+            "Even Us",
+            "Semente",
+            "While We're Young",
+            "Grown Folks",
+            "Gemini",
+            "Chonks",
+            "Xavi"
+        ],
+        "encore": [
+            "Sleeper"
+        ],
+        "track_info": null,
+        "artists": {
+            "Bob Reynolds": "saxophone",
+            "Chris Bullock": "tenor sax, flute, and alto flute",
+            "Mike “Maz” Maher": "trumpet and flugelhorn",
+            "Justin Stanton": "trumpet and keyboards",
+            "Bobby Sparks": "keyboards",
+            "Bob Lanzetti": "guitar",
+            "Michael League": "bass",
+            "Jamison Ross": "drums",
+            "Keita Ogawa": "percussion"
+        },
+        "sound_crew": {
+            "Matt Recchia": "engineering and sound (front of house)",
+            "Michael Harrison": "monitors",
+            "Neil Macintosh": "mixing"
+        }
+    },
+    {
+        "name": "SEPTEMBER 25, 2019 - ORLANDO, FL",
+        "flac": "https://store.snarkypuppy.com/products/september-25-2019-orlando-fl-flac",
+        "mp3": "https://store.snarkypuppy.com/products/september-25-2019-orlando-fl-mp3",
+        "location": "Plaza Live, Orlando, FL",
+        "date": "September 25th, 2019",
+        "setlist": [
+            "Semente",
+            "Chrysalis",
+            "While We're Young",
+            "Chonks",
+            "Bad Kids to the Back",
+            "Bigly Strictness",
+            "Tio Macaco",
+            "Even Us^"
+        ],
+        "encore": [
+            "What About Me?*"
+        ],
+        "other_artists": {
+            "^": {
+                "Varijashree Venugopal": "vocals/flute"
+            },
+            "*": {
+                "Roosevelt Collier": "steel guitar"
+            }
+        },
+        "track_info": null,
+        "artists": {
+            "Bob Reynolds": "saxophone",
+            "Chris Bullock": "tenor sax, flute, and alto flute",
+            "Mike “Maz” Maher": "trumpet and flugelhorn",
+            "Justin Stanton": "trumpet and keyboards",
+            "Bobby Sparks": "keyboards",
+            "Bob Lanzetti": "guitar",
+            "Michael League": "bass",
+            "Jamison Ross": "drums",
+            "Keita Ogawa": "percussion"
+        },
+        "sound_crew": {
+            "Matt Recchia": "engineering and sound (front of house)",
+            "Michael Harrison": "monitors",
+            "Neil Macintosh": "mixing"
+        }
+    },
+    {
         "name": "SEPTEMBER 23, 2019 - CHARLESTON, SC",
         "flac": "https://store.snarkypuppy.com/products/september-23-2019-charleston-sc-flac",
         "mp3": "https://store.snarkypuppy.com/products/september-23-2019-charleston-sc-mp3",
@@ -116,7 +1605,7 @@
         "location": "Brooks Center, Clemson, SC",
         "date": "September 16th, 2019",
         "setlist": [
-            "Gø",
+            "GØ",
             "Kite",
             "Embossed",
             "Bad Kids to the Back",
@@ -232,7 +1721,7 @@
             "Embossed",
             "While We're Young",
             "Bling Bling",
-            "Gø",
+            "GØ",
             "Grown Folks",
             "Tio Macaco",
             "Chonks",
@@ -308,7 +1797,7 @@
             "Even Us",
             "Embossed",
             "Bigly Strictness",
-            "Bad Kids",
+            "Bad Kids to the Back",
             "Tarova",
             "Tio Macaco",
             "Thing of Gold",
@@ -380,7 +1869,7 @@
             "Even Us",
             "Semente",
             "Grown Folks",
-            "Gø",
+            "GØ",
             "Bad Kids to the Back",
             "Chonks",
             "Shofukan"
@@ -415,7 +1904,7 @@
         "setlist": [
             "Even Us",
             "Tarova",
-            "While We’re Young",
+            "While We're Young",
             "Flood",
             "Bad Kids to the Back",
             "Chonks",
@@ -457,8 +1946,8 @@
         "setlist": [
             "Beep Box",
             "Flood",
-            "Gø",
-            "Bad Kids",
+            "GØ",
+            "Bad Kids to the Back",
             "Even Us",
             "Xavi",
             "Sleeper"
@@ -507,7 +1996,7 @@
             "Mike “Maz” Maher": "trumpet and flugelhorn",
             "Justin Stanton": "trumpet and keyboards",
             "Bobby Sparks": "keyboards",
-            "Bill Laurence": "keyboards",
+            "Bill Laurance": "keyboards",
             "Bob Lanzetti": "guitar",
             "Michael League": "bass",
             "Larnell Lewis": "drums",
@@ -545,7 +2034,7 @@
             "Mike “Maz” Maher": "trumpet and flugelhorn",
             "Justin Stanton": "trumpet and keyboards",
             "Bobby Sparks": "keyboards",
-            "Bill Laurence": "keyboards",
+            "Bill Laurance": "keyboards",
             "Bob Lanzetti": "guitar",
             "Michael League": "bass",
             "Louis Cato": "drums",
@@ -2041,7 +3530,7 @@
         "encore": [
             "Shofukan"
         ],
-        "track_info": "Last show of a 4-day, 6-show run at the SF Jazz Center (and the last of a 23-shows-in-23-days tour). Nate kicks off the show with an intro to Strawman in its first appearance this tour. Justin jousts with JT on keyboards. Bob, Maz, and Bullock trade. Gemini hits a groove during the middle vamp. Justin takes the solo on Fender Rhodes. Outlier shows up for the first time on the run. Bullock and JT go lots of places. The solo section flexes quite a bit. JT sets up Tarova and it gets a soul-jazz treatment. Maz gets left on his own in the solo section. Bill swings over the outro on Rhodes. Nate sets up Tio Macaco. Jay takes the lone solo. Nate and JT take it out. Lingus is slow and heavy. Shaun takes a percussion solo on Moog before bringing in the organ. The encore is a (very hyped, thanks to Shaun) version of Shofukan. Bob takes the solo for the first time. Shaun won’t let it go. A very loose, fun end to the tour.",
+        "track_info": "Last show of a 4-day, 6-show run at the SF Jazz Center (and the last of a 23-shows-in-23-days tour). Nate kicks off the show with an intro to Strawman in its first appearance this tour. Justin jousts with JT on keyboards. Bob, Maz, and Bullock trade. Gemini hits a groove during the middle vamp. Justin takes the solo on Fender Rhodes. Outlier shows up for the first time on the run. Bullock and JT go lots of places. The solo section flexes quite a bit. JT sets up Tarova and it gets a soul-jazz treatment. Maz gets left on his own in the solo section. Bill swings over the outro on Rhodes. Nate sets up Tio Macaco. Jay takes the lone solo. Nate and JT take it out. Lingus is slow and heavy. Shaun takes a percussion solo on Moog before bringing in the organ. The encore is a (very hyped, thanks to Shaun) version of Shofukan. Bob takes the solo for the first time. Shaun won't let it go. A very loose, fun end to the tour.",
         "artists": {
             "Chris Bullock": "tenor sax, flute, and alto flute",
             "Mike “Maz” Maher": "trumpet, flugelhorn and vocals",
@@ -2075,7 +3564,7 @@
         "encore": [
             "Amour T\u2019es La?*"
         ],
-        "track_info": "The most experimental set of the run so far. Everything gets stretched. Nate starts the set off with a percussion intro to Semente. Maz comes out strong. Bob creates a beautiful segue into Flood. Justin takes a keyboard solo. JT swings for a second. Shaun jumps into the conversation on the outro. Things ping-pong around the stage. The vamp stretches. The band reprises and simmers. Shark Tank is sloppy and fun. Bob has a… memorable moment. He takes the solo and redeems himself. Bill takes his time setting up Ready Wednesday on Rhodes. The solo section hits a serious groove. Jay blows over the top and the horn section joins in. What About Me? gets a tour of musical styles during Bullock’s tenor solo. JT destroys the outro. Magda joins for the encore of Amour T’es La? Really fun, loose set. Lots of freedom.",
+        "track_info": "The most experimental set of the run so far. Everything gets stretched. Nate starts the set off with a percussion intro to Semente. Maz comes out strong. Bob creates a beautiful segue into Flood. Justin takes a keyboard solo. JT swings for a second. Shaun jumps into the conversation on the outro. Things ping-pong around the stage. The vamp stretches. The band reprises and simmers. Shark Tank is sloppy and fun. Bob has a… memorable moment. He takes the solo and redeems himself. Bill takes his time setting up Ready Wednesday on Rhodes. The solo section hits a serious groove. Jay blows over the top and the horn section joins in. What About Me? gets a tour of musical styles during Bullock's tenor solo. JT destroys the outro. Magda joins for the encore of Amour T'es La? Really fun, loose set. Lots of freedom.",
         "artists": {
             "Chris Bullock": "tenor sax, flute, and alto flute",
             "Mike “Maz” Maher": "trumpet, flugelhorn and vocals",
@@ -2116,7 +3605,7 @@
             "Vem Morena*",
             "Shofukan"
         ],
-        "track_info": "Night three at the SF Jazz Center. Things ease in slowly with Kite. Jay finds a note he likes and sticks with it. Shaun takes the outro on organ and cooks at an almost inaudible volume. Whitecap is slow and swinging. Bullock takes the solo. He and JT are left alone for a while. JT brings in Grown Folks. Bill takes the first solo, moving between different sounds. Bob plays over the outro. Young Stuff gets a solo from Maz. Justin takes the outro solo on keyboard and grooves. Nate sets up Tio Macaco. He keeps the solo short and sweet. Shaun brings down the house with Sleeper. Magda joins the crew for her arrangement of Gonzaga’s Vem Morena. The band closes out with a very succinct version of Shofukan, with a trumpet solo from Justin. Kite - Jay (stickin on Db) and Shaun (quiet and loads of runs). Whitecap - Boomtown (slow tempo). Grown Folks - Bill, Bob. Young Stuff - Maz, Justin (groove shit). Tio - Nate (5s!, short and sweet). Sleeper - Shaun. Shofukan - short and sweet.",
+        "track_info": "Night three at the SF Jazz Center. Things ease in slowly with Kite. Jay finds a note he likes and sticks with it. Shaun takes the outro on organ and cooks at an almost inaudible volume. Whitecap is slow and swinging. Bullock takes the solo. He and JT are left alone for a while. JT brings in Grown Folks. Bill takes the first solo, moving between different sounds. Bob plays over the outro. Young Stuff gets a solo from Maz. Justin takes the outro solo on keyboard and grooves. Nate sets up Tio Macaco. He keeps the solo short and sweet. Shaun brings down the house with Sleeper. Magda joins the crew for her arrangement of Gonzaga's Vem Morena. The band closes out with a very succinct version of Shofukan, with a trumpet solo from Justin. Kite - Jay (stickin on Db) and Shaun (quiet and loads of runs). Whitecap - Boomtown (slow tempo). Grown Folks - Bill, Bob. Young Stuff - Maz, Justin (groove shit). Tio - Nate (5s!, short and sweet). Sleeper - Shaun. Shofukan - short and sweet.",
         "artists": {
             "Chris Bullock": "tenor sax, flute, and alto flute",
             "Mike “Maz” Maher": "trumpet, flugelhorn and vocals",
@@ -2156,7 +3645,7 @@
         "encore": [
             "Amour T\u2019es La?*"
         ],
-        "track_info": "Third of six shows in SF. Relaxed, open feeling throughout. GØ feels good and Bob takes his time before bringing in the melody. Bullock explores some sounds on the first solo. Bill gets into it with JT on the second one. JT flips the groove. Bob takes it out on guitar. JT provides a smooth transition into Beep Box. Maz takes a long solo over the outro. After a brief hello to the crowd, Bob speeds into Shark Tank. Justin works the Prophet during a long solo over the outro vamp. It goes places. Shaun reins it back in on Thing of Gold. Jay bops over the bridge. Shaun sets up Big Ugly. Bullock and Bob take solos. Justin and Bill transition seamlessly into Ready Wednesday, which ends up being about as long as the whole rest of the set. Bill takes the first solo. The band locks into a serious groove and stays put for a while. They hand it off to JT, who gives a house music drum clinic. A really nice performance of this tune. For the encore, the band is joined by Magda Giannikou from Banda Magda for a version of Amour T’es La. Really nice show in all.",
+        "track_info": "Third of six shows in SF. Relaxed, open feeling throughout. GØ feels good and Bob takes his time before bringing in the melody. Bullock explores some sounds on the first solo. Bill gets into it with JT on the second one. JT flips the groove. Bob takes it out on guitar. JT provides a smooth transition into Beep Box. Maz takes a long solo over the outro. After a brief hello to the crowd, Bob speeds into Shark Tank. Justin works the Prophet during a long solo over the outro vamp. It goes places. Shaun reins it back in on Thing of Gold. Jay bops over the bridge. Shaun sets up Big Ugly. Bullock and Bob take solos. Justin and Bill transition seamlessly into Ready Wednesday, which ends up being about as long as the whole rest of the set. Bill takes the first solo. The band locks into a serious groove and stays put for a while. They hand it off to JT, who gives a house music drum clinic. A really nice performance of this tune. For the encore, the band is joined by Magda Giannikou from Banda Magda for a version of Amour T'es La. Really nice show in all.",
         "artists": {
             "Chris Bullock": "tenor sax, flute, and alto flute",
             "Mike “Maz” Maher": "trumpet, flugelhorn and vocals",
@@ -2313,7 +3802,7 @@
         "encore": [
             "Big Ugly"
         ],
-        "track_info": "* There is a short audio dropout in this performance due to a technical difficulty. Back at the little beach bar known as Belly Up. So nice to play in a small room again. Lots of stretching in this set. GØ gets long solos from Maz, Bill, and Bob. Nate transitions into Semente. Justin takes a trumpet solo. Jamison steps out vocally on Gemini. Shaun brings it down on Kronos and organ. Grown Folks gets an open bass intro. Bullock milks the first solo section. Bob rips over the outro. Shaun drives the bus on Thing of Gold and ends with an organ mash-up of America, The Beautiful and D’Angelo’s The Root. Bill takes the bait and goes right into Ready Wednesday. Jamison lays down 2 and 4. Justin dials up a sound on the Prophet and the band plays with bass drops. Bill takes it out. Encore is Big Ugly. Bullock takes an ambient solo. Bob takes one on guitar. Shaun goes choir director and gets the whole audience to sing leading tones. Funny, very informal vibe throughout the set. Lots of fun.",
+        "track_info": "* There is a short audio dropout in this performance due to a technical difficulty. Back at the little beach bar known as Belly Up. So nice to play in a small room again. Lots of stretching in this set. GØ gets long solos from Maz, Bill, and Bob. Nate transitions into Semente. Justin takes a trumpet solo. Jamison steps out vocally on Gemini. Shaun brings it down on Kronos and organ. Grown Folks gets an open bass intro. Bullock milks the first solo section. Bob rips over the outro. Shaun drives the bus on Thing of Gold and ends with an organ mash-up of America, The Beautiful and D'Angelo's The Root. Bill takes the bait and goes right into Ready Wednesday. Jamison lays down 2 and 4. Justin dials up a sound on the Prophet and the band plays with bass drops. Bill takes it out. Encore is Big Ugly. Bullock takes an ambient solo. Bob takes one on guitar. Shaun goes choir director and gets the whole audience to sing leading tones. Funny, very informal vibe throughout the set. Lots of fun.",
         "artists": {
             "Chris Bullock": "tenor sax, flute, and alto flute",
             "Mike “Maz” Maher": "trumpet, flugelhorn and vocals",
@@ -2385,7 +3874,7 @@
         "encore": [
             "Sleeper"
         ],
-        "track_info": "Crazy travel day from Lincoln (starting at 3:00am) to Portland full of delays and all kinds of fun. We arrive just in time for a quick soundcheck and kick things off very mellow with Gemini. Shaun takes his time on the solo, starting with a motif that he develops over several choruses. Maz lets loose on GØ. Justin takes the second solo on keyboards and Bob takes it out on guitar. Nate sets up Semente with a percussion interlude. It gets a bass solo for the first time in a while. The outro turns hip-hop for a second and then melds into Beep Box. Bill takes the solo for the first time, switching from synth to electric piano. After a brief greeting, Shaun rips through Thing of Gold. Justin takes a trumpet solo over the bridge. Shaun goes into a quick rendition of Amazing Grace on organ (the security woman was singing it as we walked on stage to start the show). Nate and Jamison kick right into Tarova. Bullock takes one of the most intense solos I’ve ever heard from him. He and Jamison are left alone for a while. Nate rocks a short solo over the outro vamp. Bill sets up Binky on Rhodes and the band enters with a downtempo dub thing. The tune flexes quite a bit. Bob takes one on guitar. Maz goes in over the B section. New harmony just before the outro. Things get weird, in a good way (I think). Shaun brings down the house on Sleeper. Incredible energy from the audience all night. One to remember.",
+        "track_info": "Crazy travel day from Lincoln (starting at 3:00am) to Portland full of delays and all kinds of fun. We arrive just in time for a quick soundcheck and kick things off very mellow with Gemini. Shaun takes his time on the solo, starting with a motif that he develops over several choruses. Maz lets loose on GØ. Justin takes the second solo on keyboards and Bob takes it out on guitar. Nate sets up Semente with a percussion interlude. It gets a bass solo for the first time in a while. The outro turns hip-hop for a second and then melds into Beep Box. Bill takes the solo for the first time, switching from synth to electric piano. After a brief greeting, Shaun rips through Thing of Gold. Justin takes a trumpet solo over the bridge. Shaun goes into a quick rendition of Amazing Grace on organ (the security woman was singing it as we walked on stage to start the show). Nate and Jamison kick right into Tarova. Bullock takes one of the most intense solos I've ever heard from him. He and Jamison are left alone for a while. Nate rocks a short solo over the outro vamp. Bill sets up Binky on Rhodes and the band enters with a downtempo dub thing. The tune flexes quite a bit. Bob takes one on guitar. Maz goes in over the B section. New harmony just before the outro. Things get weird, in a good way (I think). Shaun brings down the house on Sleeper. Incredible energy from the audience all night. One to remember.",
         "artists": {
             "Chris Bullock": "tenor sax, flute, and alto flute",
             "Mike “Maz” Maher": "trumpet, flugelhorn and vocals",
@@ -2458,7 +3947,7 @@
         "encore": [
             "Jefe"
         ],
-        "track_info": "First time in Boulder in over half a decade. Sold-out show in a beautiful old theater. Things come out funky with Grown Folks. Bullock takes his time on tenor. Shaun closes it out. Beep Box is mellow. The solo section stretches under Maz. Tarova gets a killer guitar solo from Mark. He and Jamison are left alone for a while. Shaun lights it up on Gemini after a very interesting open vamp. Jamison leads vocally. Justin takes an amazing solo on Prophet over the outro vamp in Shark Tank. Definitely my favorite moment of the night. Shaun goads the audience into singing on Thing of Gold. Maz blows over the bridge. Nate sets up Tio Macaco beautifully. He and Jamison cook at the end. Big Ugly is patient and strong. Bullock and Mark solo. Jefe is the encore. Shaun does his thing on talkbox, then Bill grooves on Rhodes over what’s normally a percussion solo. The band hits a deep pocket after a keyboard break. Justin calls in a Headhunters quote. Shaun won’t let it go. Nice party set.",
+        "track_info": "First time in Boulder in over half a decade. Sold-out show in a beautiful old theater. Things come out funky with Grown Folks. Bullock takes his time on tenor. Shaun closes it out. Beep Box is mellow. The solo section stretches under Maz. Tarova gets a killer guitar solo from Mark. He and Jamison are left alone for a while. Shaun lights it up on Gemini after a very interesting open vamp. Jamison leads vocally. Justin takes an amazing solo on Prophet over the outro vamp in Shark Tank. Definitely my favorite moment of the night. Shaun goads the audience into singing on Thing of Gold. Maz blows over the bridge. Nate sets up Tio Macaco beautifully. He and Jamison cook at the end. Big Ugly is patient and strong. Bullock and Mark solo. Jefe is the encore. Shaun does his thing on talkbox, then Bill grooves on Rhodes over what's normally a percussion solo. The band hits a deep pocket after a keyboard break. Justin calls in a Headhunters quote. Shaun won't let it go. Nice party set.",
         "artists": {
             "Chris Bullock": "tenor sax",
             "Mike “Maz” Maher": "trumpet, flugelhorn and vocals",
@@ -2495,7 +3984,7 @@
         "encore": [
             "Quarter Master"
         ],
-        "track_info": "My favorite show of the run so far. Great crowd, very loose and open vibe on stage. A brisk Whitecap starts things off high-energy. Maz burns on flugelhorn. Grown Folks is funky. Mark milks the first solo. Shaun takes it out on Moog. Justin takes a beautiful trumpet solo on Kite. Bill owns the outro on piano. Tarova feels good. Bullock and Jamison duke it out. Nate takes an extended percussion solo over the outro. Shaun turns the crowd up on Thing of Gold, then sets up Big Ugly with an organ outro. Mark solos. Bill plays a short intro to Ready Wednesday. Justin takes the solo on Prophet 6. Shofukan gets a rare solo from Maz on flugelhorn. The band uses the crowd’s singing to create a new downtempo groove for Quarter Master. It marinades for a while before the melody drops in. It speeds up on the B section. Mark drives the rhythm bus for a while, then Bill and Shaun trade. The horns take it out.",
+        "track_info": "My favorite show of the run so far. Great crowd, very loose and open vibe on stage. A brisk Whitecap starts things off high-energy. Maz burns on flugelhorn. Grown Folks is funky. Mark milks the first solo. Shaun takes it out on Moog. Justin takes a beautiful trumpet solo on Kite. Bill owns the outro on piano. Tarova feels good. Bullock and Jamison duke it out. Nate takes an extended percussion solo over the outro. Shaun turns the crowd up on Thing of Gold, then sets up Big Ugly with an organ outro. Mark solos. Bill plays a short intro to Ready Wednesday. Justin takes the solo on Prophet 6. Shofukan gets a rare solo from Maz on flugelhorn. The band uses the crowd's singing to create a new downtempo groove for Quarter Master. It marinades for a while before the melody drops in. It speeds up on the B section. Mark drives the rhythm bus for a while, then Bill and Shaun trade. The horns take it out.",
         "artists": {
             "Chris Bullock": "tenor sax",
             "Mike “Maz” Maher": "trumpet, flugelhorn and vocals",
@@ -2531,7 +4020,7 @@
         "encore": [
             "Lingus*"
         ],
-        "track_info": "Sold-out show in Nashville’s beautiful Marathon Music Works. Beep Box starts the evening off mellow. Maz solos over the drop. GØ feels good. Bullock takes the first solo. Justin lights it up on Prophet over the bridge. Mark goes 80’s on the outro. Gemini reins things in. The horns weave in and out over the vamp. Shaun takes over on organ and takes it through the roof. Grown Folks is funky. Bill takes a synth solo. Mark cleans up on guitar. Shaun coerces the crowd into singing on Thing of Gold. He sets up Bill for Ready Wednesday. The horns trade over a house groove. The outro simmers and decays before the band launches into What About Me? Mark gives a clinic on rhythm guitar playing. Jamison crushes the outro. For the encore, the band is joined by Jeff Coffin of The Dave Matthews Band/Béla Fleck & The Flecktones on tenor sax. He comes out big on Lingus and then dukes it out with Jamison and Nate. Things get heavy. A very cool way to end a very cool night.",
+        "track_info": "Sold-out show in Nashville's beautiful Marathon Music Works. Beep Box starts the evening off mellow. Maz solos over the drop. GØ feels good. Bullock takes the first solo. Justin lights it up on Prophet over the bridge. Mark goes 80's on the outro. Gemini reins things in. The horns weave in and out over the vamp. Shaun takes over on organ and takes it through the roof. Grown Folks is funky. Bill takes a synth solo. Mark cleans up on guitar. Shaun coerces the crowd into singing on Thing of Gold. He sets up Bill for Ready Wednesday. The horns trade over a house groove. The outro simmers and decays before the band launches into What About Me? Mark gives a clinic on rhythm guitar playing. Jamison crushes the outro. For the encore, the band is joined by Jeff Coffin of The Dave Matthews Band/Béla Fleck & The Flecktones on tenor sax. He comes out big on Lingus and then dukes it out with Jamison and Nate. Things get heavy. A very cool way to end a very cool night.",
         "artists": {
             "Chris Bullock": "tenor sax",
             "Mike “Maz” Maher": "trumpet, flugelhorn and vocals",
@@ -2572,7 +4061,7 @@
         "encore": [
             "Ready Wednesday^^"
         ],
-        "track_info": "Second night in Atlanta. The band is more focused and dynamic. Things kick off with GØ. Bullock takes the first solo on sax effects. Bill takes his time on Rhodes. Mark shreds over the outro. Kite is slow and steady. Maz swallows the mic on flugelhorn and takes a beautiful solo. Things break down for Shaun and he milks the outro on organ. Tarova gets an effected solo from Maz, with Shaun provoking him on Moog and organ from the other side of the stage. Gemini is low and brooding, and Jamison interjects on vocals during the vamp. Shaun takes an extended talkbox solo. Binky starts with a muted bass intro. Bullock solos on tenor. Justin takes a rare solo over the B section. The band hits a 90’s vamp (Bustaaaaa) and emcee Mama Sol joins for the outro. My favorite tune of the night. Nate jumps right into Tio Macaco. The horns trade. Nate is on fire. He and Jamison take it out. Sput (who happened to be in ATL) jumps in on percussion for Shofukan. Justin solos. Jamison, Sput, and Nate punctuate the set. Sput joins in on drum set for the encore, Ready Wednesday. Mark rips over a house-ish solo section. The band rolls on to Nashville.",
+        "track_info": "Second night in Atlanta. The band is more focused and dynamic. Things kick off with GØ. Bullock takes the first solo on sax effects. Bill takes his time on Rhodes. Mark shreds over the outro. Kite is slow and steady. Maz swallows the mic on flugelhorn and takes a beautiful solo. Things break down for Shaun and he milks the outro on organ. Tarova gets an effected solo from Maz, with Shaun provoking him on Moog and organ from the other side of the stage. Gemini is low and brooding, and Jamison interjects on vocals during the vamp. Shaun takes an extended talkbox solo. Binky starts with a muted bass intro. Bullock solos on tenor. Justin takes a rare solo over the B section. The band hits a 90's vamp (Bustaaaaa) and emcee Mama Sol joins for the outro. My favorite tune of the night. Nate jumps right into Tio Macaco. The horns trade. Nate is on fire. He and Jamison take it out. Sput (who happened to be in ATL) jumps in on percussion for Shofukan. Justin solos. Jamison, Sput, and Nate punctuate the set. Sput joins in on drum set for the encore, Ready Wednesday. Mark rips over a house-ish solo section. The band rolls on to Nashville.",
         "artists": {
             "Chris Bullock": "tenor sax",
             "Mike “Maz” Maher": "trumpet, flugelhorn and vocals",
@@ -2620,7 +4109,7 @@
         "encore": [
             "Jefe"
         ],
-        "track_info": "First show of the tour post-festival. FORQ opening. The evening eases in with Flood. Justin takes a solo on Prophet and Jamison picks it up from there. He and Nate get into it just before the outro. Bill takes a long one on piano during Semente. Shark Tank makes its first appearance in years, with Mark soloing over the end. It’s sloppy, but fun. Beep Box gets a guest appearance from my favorite emcee, Mama Sol, a Flint native who recently moved to Atlanta. Shaun hypes up the crowd on Thing of Gold. Maz takes the bridge on trumpet and drops a P-Funk quote. Shaun takes it out on solo organ and weaves into Young Stuff. What About Me? goes to new places with Justin on Prophet during the solo section. Jamison crushes the outro. Shaun takes it home on talkbox with Sleeper. The band encores with Mark’s tune Jefe, played for the first or second time ever live. As with most tour-opening shows, this one was rough around the edges but had a good energy.",
+        "track_info": "First show of the tour post-festival. FORQ opening. The evening eases in with Flood. Justin takes a solo on Prophet and Jamison picks it up from there. He and Nate get into it just before the outro. Bill takes a long one on piano during Semente. Shark Tank makes its first appearance in years, with Mark soloing over the end. It's sloppy, but fun. Beep Box gets a guest appearance from my favorite emcee, Mama Sol, a Flint native who recently moved to Atlanta. Shaun hypes up the crowd on Thing of Gold. Maz takes the bridge on trumpet and drops a P-Funk quote. Shaun takes it out on solo organ and weaves into Young Stuff. What About Me? goes to new places with Justin on Prophet during the solo section. Jamison crushes the outro. Shaun takes it home on talkbox with Sleeper. The band encores with Mark's tune Jefe, played for the first or second time ever live. As with most tour-opening shows, this one was rough around the edges but had a good energy.",
         "artists": {
             "Chris Bullock": "tenor sax",
             "Mike “Maz” Maher": "trumpet, flugelhorn and vocals",
@@ -2662,7 +4151,7 @@
             "Shofukan",
             "Binky"
         ],
-        "track_info": "The final show of the Latin American tour. The band opens with an almost-album-length Sleeper for the first time ever. Shaun runs it on talkbox. Whitecap starts with a bass intro. Justin re-harmonizes the breakdown. Maz takes one on flugel as half of the band lays out. Grown Folks is slow and funky. Bullock milks a tenor solo. Bob takes the outro on guitar. Shaun invokes Bernard Wright on a beautifully phrased solo during Gemini. Special guest Federico Nathan joins the band for 34 Klezma’s only tour appearance. He and Bill set it up beautifully and Federico takes the solo on violin. Bob solos on Palermo. Bill and JT go into a new space on What About Me? with a mellotron strings/Rhodes combo. Justin jumps in on keybass. On cue, the band stumbles on a nice groove for the vamp. After band introductions, JT rips apart the outro vamp. For the encore, Justin takes a trumpet solo on Shofukan after being quiet all night. For the second encore, Binky gets solos from Bullock and Maz before spiralling into a very, very long unplanned medley dictated by Shaun (who else?). The band circles back around and closes things out. Two hours of music to wrap up a two week trip.",
+        "track_info": "The final show of the Latin American tour. The band opens with an almost-album-length Sleeper for the first time ever. Shaun runs it on talkbox. Whitecap starts with a bass intro. Justin re-harmonizes the breakdown. Maz takes one on flugel as half of the band lays out. Grown Folks is slow and funky. Bullock milks a tenor solo. Bob takes the outro on guitar. Shaun invokes Bernard Wright on a beautifully phrased solo during Gemini. Special guest Federico Nathan joins the band for 34 Klezma's only tour appearance. He and Bill set it up beautifully and Federico takes the solo on violin. Bob solos on Palermo. Bill and JT go into a new space on What About Me? with a mellotron strings/Rhodes combo. Justin jumps in on keybass. On cue, the band stumbles on a nice groove for the vamp. After band introductions, JT rips apart the outro vamp. For the encore, Justin takes a trumpet solo on Shofukan after being quiet all night. For the second encore, Binky gets solos from Bullock and Maz before spiralling into a very, very long unplanned medley dictated by Shaun (who else?). The band circles back around and closes things out. Two hours of music to wrap up a two week trip.",
         "artists": {
             "Chris Bullock": "tenor sax and flute",
             "Mike “Maz” Maher": "trumpet, flugelhorn and vocals",
@@ -2706,7 +4195,7 @@
             "Sleeper",
             "Quarter Master"
         ],
-        "track_info": "The first of two nights in Buenos Aires. A beautiful open-air venue for 2,200 in a cultural complex. Flood warms things up with solos from Justin and JT. Marcelo and JT take it for a moment at the end. Semente gets a flugelhorn solo from Maz. Bill takes the first solo on Grown Folks and Shaun turn things up on Moog for the ending. Outlier makes its first recorded appearance on the tour. Bullock and JT joust it out in the solo section, playing with related meters. Justin takes the bridge on Thing of Gold and Shaun brings it home. An old friend of Marcelo’s, drummer Nicolas Arroyo of supporting act Duratierra, joins the band on congas for Palermo. Bob takes the solo on guitar. Nicolas and Marcelo get into some deep rhythmic interplay on the outro. Shaun brings down the house with Sleeper for the encore. The band returns for a second one in a time crunch before curfew. Quarter Master shows up for the first time. Bill takes one on Rhodes. The band can’t let it go and shouts.",
+        "track_info": "The first of two nights in Buenos Aires. A beautiful open-air venue for 2,200 in a cultural complex. Flood warms things up with solos from Justin and JT. Marcelo and JT take it for a moment at the end. Semente gets a flugelhorn solo from Maz. Bill takes the first solo on Grown Folks and Shaun turn things up on Moog for the ending. Outlier makes its first recorded appearance on the tour. Bullock and JT joust it out in the solo section, playing with related meters. Justin takes the bridge on Thing of Gold and Shaun brings it home. An old friend of Marcelo's, drummer Nicolas Arroyo of supporting act Duratierra, joins the band on congas for Palermo. Bob takes the solo on guitar. Nicolas and Marcelo get into some deep rhythmic interplay on the outro. Shaun brings down the house with Sleeper for the encore. The band returns for a second one in a time crunch before curfew. Quarter Master shows up for the first time. Bill takes one on Rhodes. The band can't let it go and shouts.",
         "artists": {
             "Chris Bullock": "tenor sax and flute",
             "Mike “Maz” Maher": "trumpet, flugelhorn and vocals",
@@ -2752,7 +4241,7 @@
             "Ready Wednesday**",
             "Lingus"
         ],
-        "track_info": "Saturday night in an old Japanese theatre-turned-venue. A trippy, funky place with an incredible crowd. The night eases in with Beep Box. Maz takes one over the outro. Tarova is funky. Bullock takes the solo. The crowd sings along with Thing of Gold as Shaun takes the lead on Moog and Maz blows over the bridge. Palermo gets a solo from Bob. Justin owns What About Me? on keyboard and JT takes one of the best solos I’ve ever heard on the outro. Young Stuff gets a Rhodes solo from Bill and a short-ish clean bass solo. Brazilian ensemble PRD Mais and woodwind legend Carlos Malta are invited up for Tio Macaco and they completely take it over. The energy is electric. Maybe my favorite moment of the tour thus far. Shofukan gets a beautiful solo from Justin on trumpet. Bill eases into the first encore of Ready Wednesday and Brazilian guest Gabriel Grossi takes a solo on harmonica. The band comes out one last time for Lingus. Shaun Martin absolutely wrecks it on Moog and talkbox. Serious vibe throughout the whole show. Rowdy and fun.",
+        "track_info": "Saturday night in an old Japanese theatre-turned-venue. A trippy, funky place with an incredible crowd. The night eases in with Beep Box. Maz takes one over the outro. Tarova is funky. Bullock takes the solo. The crowd sings along with Thing of Gold as Shaun takes the lead on Moog and Maz blows over the bridge. Palermo gets a solo from Bob. Justin owns What About Me? on keyboard and JT takes one of the best solos I've ever heard on the outro. Young Stuff gets a Rhodes solo from Bill and a short-ish clean bass solo. Brazilian ensemble PRD Mais and woodwind legend Carlos Malta are invited up for Tio Macaco and they completely take it over. The energy is electric. Maybe my favorite moment of the tour thus far. Shofukan gets a beautiful solo from Justin on trumpet. Bill eases into the first encore of Ready Wednesday and Brazilian guest Gabriel Grossi takes a solo on harmonica. The band comes out one last time for Lingus. Shaun Martin absolutely wrecks it on Moog and talkbox. Serious vibe throughout the whole show. Rowdy and fun.",
         "artists": {
             "Chris Bullock": "tenor sax and flute",
             "Mike “Maz” Maher": "trumpet, flugelhorn and vocals",
@@ -2898,7 +4387,7 @@
         "encore": [
             "Lingus"
         ],
-        "track_info": "*Due to a technical error, 4 seconds are missing from this performance. First time in Colombia. One of the best audiences in recent memory in an incredible space. Bill starts the night off with an intro to Ready Wednesday. Bullock plays over a club groove. Gemini simmers until Shaun solos. The room opens up. GØ hits a groove during Maz’s solo and the band sits in it. Bill takes one of Rhodes. Justin closes it out on synth. Bob plays on Palermo and the crowd hangs with Marcelo until the last note. What About Me? goes Dallas as Shaun and JT take the solo section together. JT completely destroys the outro vamp. Binky gets stretched about as far as it can go. After a bass intro, Bullock takes the first solo. Maz takes the next one on flugelhorn and the rhythm section bounces off a mistake to go to a new place. The outro goes P-Funk and Shaun holds out as long as he can before grabbing the mic. The whole place comes alive. JT won’t let it end. Bill takes his time and owns the solo on Lingus. A very special night.",
+        "track_info": "*Due to a technical error, 4 seconds are missing from this performance. First time in Colombia. One of the best audiences in recent memory in an incredible space. Bill starts the night off with an intro to Ready Wednesday. Bullock plays over a club groove. Gemini simmers until Shaun solos. The room opens up. GØ hits a groove during Maz's solo and the band sits in it. Bill takes one of Rhodes. Justin closes it out on synth. Bob plays on Palermo and the crowd hangs with Marcelo until the last note. What About Me? goes Dallas as Shaun and JT take the solo section together. JT completely destroys the outro vamp. Binky gets stretched about as far as it can go. After a bass intro, Bullock takes the first solo. Maz takes the next one on flugelhorn and the rhythm section bounces off a mistake to go to a new place. The outro goes P-Funk and Shaun holds out as long as he can before grabbing the mic. The whole place comes alive. JT won't let it end. Bill takes his time and owns the solo on Lingus. A very special night.",
         "artists": {
             "Chris Bullock": "tenor sax and flute",
             "Mike “Maz” Maher": "trumpet, flugelhorn and vocals",
@@ -2936,7 +4425,7 @@
         "encore": [
             "Lingus"
         ],
-        "track_info": "*Due to technical issues, Susana Baca\u2019s performance of Fuego y Agua was omitted from the recording. Our first show of the tour as well as our first performance in Perú. A beautiful crowd from the very beginning. Thing of Gold as a rare opener. Maz solos on flugelhorn and Shaun phrases over the back half on Moog. Grown Folks is slow and funky. Bill gets colorful with the harmony on the first solo. Bob plays over the outro. Semente gets a trumpet solo from Justin and melds into Whitecap. JT and Bullock get into some stuff on the solo section. Palermo has a nice vibe. Bob rips the solo section apart and Marcelo tests the audience’s groove over the outro. Justin and JT create some heavy grooves on What About Me? before JT’s solo on the vamp. Maz takes things out on Shofukan. The outro gets stretched while JT and Marcelo ping-pong. Lingus closes out the night with one of my favorite Shaun Martin solos ever. A great start to the trip.",
+        "track_info": "*Due to technical issues, Susana Baca\u2019s performance of Fuego y Agua was omitted from the recording. Our first show of the tour as well as our first performance in Perú. A beautiful crowd from the very beginning. Thing of Gold as a rare opener. Maz solos on flugelhorn and Shaun phrases over the back half on Moog. Grown Folks is slow and funky. Bill gets colorful with the harmony on the first solo. Bob plays over the outro. Semente gets a trumpet solo from Justin and melds into Whitecap. JT and Bullock get into some stuff on the solo section. Palermo has a nice vibe. Bob rips the solo section apart and Marcelo tests the audience's groove over the outro. Justin and JT create some heavy grooves on What About Me? before JT's solo on the vamp. Maz takes things out on Shofukan. The outro gets stretched while JT and Marcelo ping-pong. Lingus closes out the night with one of my favorite Shaun Martin solos ever. A great start to the trip.",
         "artists": {
             "Chris Bullock": "tenor sax and flute",
             "Mike “Maz” Maher": "trumpet and flugelhorn",
@@ -3010,7 +4499,7 @@
             "Lingus",
             "Sleeper"
         ],
-        "track_info": "Last of two nights in Amsterdam. Sonically (for some unknown reason), this one feels a bit better than the first show. Musically, a very different one. The set starts with two old tunes. Nate eases Strawman in. Maz plays around the hits. Horns and guitar trade over the last section. Justin takes one on Rhodes during Flood. Zach takes his time on Grown Folks (and both solos). Bobby alternates between Minimoog and organ on Gemini. Bob gets weird with drums and percussion on Tarova. The band is joined by old friends Steven Brezet (Koffie) and Murc (Metropole Orkest) for a percussion solo over the outro. Binky gets a bass intro and a buzzy tenor solo from Bullock. Maz takes a really nice one on flugel. The band gets bendy on the build. The outro gets a Band of Gypsies quote. Bobby takes things to another place on What About Me? (plus a not-so-subtle 80’s reference). Justin adds some color. Larnell starts with cymbals and really takes his time on the solo. Justin adds a harmony to the bassline and Bob starts painting. One of the more interesting places this solo section has gone. On Lingus, Zach experiments with harmonic pitch shifting. The band hits a very different groove underneath him. Sleeper is the second encore. Bobby owns it. Justin eggs him on for an encore of their own. The band comes back in with a spontaneous deconstruction of the outro. Things get very strange (in a good way?).",
+        "track_info": "Last of two nights in Amsterdam. Sonically (for some unknown reason), this one feels a bit better than the first show. Musically, a very different one. The set starts with two old tunes. Nate eases Strawman in. Maz plays around the hits. Horns and guitar trade over the last section. Justin takes one on Rhodes during Flood. Zach takes his time on Grown Folks (and both solos). Bobby alternates between Minimoog and organ on Gemini. Bob gets weird with drums and percussion on Tarova. The band is joined by old friends Steven Brezet (Koffie) and Murc (Metropole Orkest) for a percussion solo over the outro. Binky gets a bass intro and a buzzy tenor solo from Bullock. Maz takes a really nice one on flugel. The band gets bendy on the build. The outro gets a Band of Gypsies quote. Bobby takes things to another place on What About Me? (plus a not-so-subtle 80's reference). Justin adds some color. Larnell starts with cymbals and really takes his time on the solo. Justin adds a harmony to the bassline and Bob starts painting. One of the more interesting places this solo section has gone. On Lingus, Zach experiments with harmonic pitch shifting. The band hits a very different groove underneath him. Sleeper is the second encore. Bobby owns it. Justin eggs him on for an encore of their own. The band comes back in with a spontaneous deconstruction of the outro. Things get very strange (in a good way?).",
         "artists": {
             "Chris Bullock": "tenor sax, flute and alto flute",
             "Mike “Maz” Maher": "trumpet, flugelhorn and vocals",
@@ -3053,7 +4542,7 @@
             "Shofukan",
             "Sleeper"
         ],
-        "track_info": "First of two shows at the legendary Paradiso, an old church-turned-venue, in Amsterdam. A really special show. Crowd and band energy is electric throughout. The band layers in on Whitecap to start. Bullock takes an effected tenor solo. Beep Box follows it. Maz plays over the outro. Zach goes Hendrix on GØ. Bobby lights it up on organ. Bob takes an extended solo over the outro. Then Kite. Justin lays out on Rhodes during the solo to let Bullock and Bobby take it. Justin bops through the outro on Rhodes. Semente features special guests Marcelo Woloski and Dutch percussionist Steven Brezet (from “We Like It Here”). Best it’s felt all tour. The outro becomes a three-man percussion feature (Steven on timbau, Marcelo on pandeiro, Nate on everything else) as Larnell leaves the stage. Justin burns through the first solo in Young Stuff on trumpet. Bobby takes things to a spiritual place on organ. Quarter Master keeps things in the soul arena. Bob starts low and funky on guitar and then takes it up over the top of a great Sharay Reed groove. The first encore is Shofukan, which gets a trumpet solo from Justin over an old-school organ accompaniment from Bobby. Steven and Marcelo jump back on percussion for the ending, which gets a little touch of Zeppelin. The crowd sings the theme for a second encore. Bobby takes things through the roof on Sleeper. Helluva night all around.",
+        "track_info": "First of two shows at the legendary Paradiso, an old church-turned-venue, in Amsterdam. A really special show. Crowd and band energy is electric throughout. The band layers in on Whitecap to start. Bullock takes an effected tenor solo. Beep Box follows it. Maz plays over the outro. Zach goes Hendrix on GØ. Bobby lights it up on organ. Bob takes an extended solo over the outro. Then Kite. Justin lays out on Rhodes during the solo to let Bullock and Bobby take it. Justin bops through the outro on Rhodes. Semente features special guests Marcelo Woloski and Dutch percussionist Steven Brezet (from “We Like It Here”). Best it's felt all tour. The outro becomes a three-man percussion feature (Steven on timbau, Marcelo on pandeiro, Nate on everything else) as Larnell leaves the stage. Justin burns through the first solo in Young Stuff on trumpet. Bobby takes things to a spiritual place on organ. Quarter Master keeps things in the soul arena. Bob starts low and funky on guitar and then takes it up over the top of a great Sharay Reed groove. The first encore is Shofukan, which gets a trumpet solo from Justin over an old-school organ accompaniment from Bobby. Steven and Marcelo jump back on percussion for the ending, which gets a little touch of Zeppelin. The crowd sings the theme for a second encore. Bobby takes things through the roof on Sleeper. Helluva night all around.",
         "artists": {
             "Chris Bullock": "tenor sax, flute and alto flute",
             "Mike “Maz” Maher": "trumpet and flugelhorn",
@@ -3096,7 +4585,7 @@
         "encore": [
             "What About Me?"
         ],
-        "track_info": "Second and last show of the tour in Denmark. Really nice, small rock club with the crowd right up against the stage. Justin owns this one. Semente kicks it off. Justin phrases on Rhodes. Beep Box gets a hump on the outro under Maz’s solo. Nate moves right into a brisk Strawman. Boom takes it half-time swing. Bob, Maz, and Zach do some trading over the end. Justin brings in 34 Klezma. Zach takes the solo on violin. Fun with 3 over 4. Maz takes an effected solo on GØ. Justin takes another on Rhodes and Bob finishes it out. Larnell weaves the outro straight into a slightly quicker, but funky, Grown Folks. Bobby takes things to a new place (major?) on organ before it gives out. He switches to Moog. Bob plays over the outro. Nate brings Tio Macaco straight in. He and Larnell take it out together. Big Ugly feels good. Bullock and Zach take the solos. What About Me? is the encore. Bobby gives a Moog tutorial (and the organ cuts out again). Larnell is on one. He actually leaves the drum set mid-solo, walks to the front of the stage, and works his way back playing every object along the way (monitors, the organ, amps, the front of the kit, etc.). The band is really stretching at this point in the tour. Lots of nice stuff and great energy from the crowd.",
+        "track_info": "Second and last show of the tour in Denmark. Really nice, small rock club with the crowd right up against the stage. Justin owns this one. Semente kicks it off. Justin phrases on Rhodes. Beep Box gets a hump on the outro under Maz's solo. Nate moves right into a brisk Strawman. Boom takes it half-time swing. Bob, Maz, and Zach do some trading over the end. Justin brings in 34 Klezma. Zach takes the solo on violin. Fun with 3 over 4. Maz takes an effected solo on GØ. Justin takes another on Rhodes and Bob finishes it out. Larnell weaves the outro straight into a slightly quicker, but funky, Grown Folks. Bobby takes things to a new place (major?) on organ before it gives out. He switches to Moog. Bob plays over the outro. Nate brings Tio Macaco straight in. He and Larnell take it out together. Big Ugly feels good. Bullock and Zach take the solos. What About Me? is the encore. Bobby gives a Moog tutorial (and the organ cuts out again). Larnell is on one. He actually leaves the drum set mid-solo, walks to the front of the stage, and works his way back playing every object along the way (monitors, the organ, amps, the front of the kit, etc.). The band is really stretching at this point in the tour. Lots of nice stuff and great energy from the crowd.",
         "artists": {
             "Chris Bullock": "tenor sax, flute and alto flute",
             "Mike “Maz” Maher": "trumpet and flugelhorn",
@@ -3133,7 +4622,7 @@
             "Sleeper",
             "Shofukan"
         ],
-        "track_info": "First of two in Denmark. Sold-out show in the beautiful club Vega. As always in Denmark, an unbelievable (and very young) audience. Tonight is Zach’s night. Maz starts things off on Kite. Justin’s Rhodes solo slowly goes Master Blaster. Zach rips things open on Grown Folks and Bob takes it out. Bobby plays some organ on Gemini. GØ is pretty brisk and gets solos from Bullock, Justin on Rhodes, and Bob. Bobby sings on Thing of Gold. Maz takes the bridge. Justin bops on trumpet in Young Stuff. An outro bass solo ends mellow for once. Zach gets sonically explorative on What About Me? and then opens it up. Larnell turns the drum solo into a house groove, and the band (mostly due to Justin) creeps in to paint the picture. My favorite moment of the night. First encore is Sleeper, with Bobby running the show. Second encore is Shofukan. Maz and Bullock trade on the solo section. Nate and Larnell go nuts. The sound of this recording is particularly nice- super live and warm.",
+        "track_info": "First of two in Denmark. Sold-out show in the beautiful club Vega. As always in Denmark, an unbelievable (and very young) audience. Tonight is Zach's night. Maz starts things off on Kite. Justin's Rhodes solo slowly goes Master Blaster. Zach rips things open on Grown Folks and Bob takes it out. Bobby plays some organ on Gemini. GØ is pretty brisk and gets solos from Bullock, Justin on Rhodes, and Bob. Bobby sings on Thing of Gold. Maz takes the bridge. Justin bops on trumpet in Young Stuff. An outro bass solo ends mellow for once. Zach gets sonically explorative on What About Me? and then opens it up. Larnell turns the drum solo into a house groove, and the band (mostly due to Justin) creeps in to paint the picture. My favorite moment of the night. First encore is Sleeper, with Bobby running the show. Second encore is Shofukan. Maz and Bullock trade on the solo section. Nate and Larnell go nuts. The sound of this recording is particularly nice- super live and warm.",
         "artists": {
             "Chris Bullock": "tenor sax, flute and alto flute",
             "Mike “Maz” Maher": "trumpet and flugelhorn",
@@ -3204,7 +4693,7 @@
         "encore": [
             "Lingus"
         ],
-        "track_info": "Sold-out show for 1900 at the E-Werk rock club in Cologne. Some serious mojo in this show. Something in the air. Things start in 5th gear with a very uptempo Strawman. First time playing it this tour. Justin takes the rhythm section all over the place on his Rhodes solo. Trades on the outro with Bob taking the lead. Kite gets a little hump to it on the solo section. Maz gets lyrical. Zach stretches in a big way on the outro solo. Grown Folks hits some bumps in the beginning but Bobby reels it back in with a tour of the organ over the first vamp. Bob takes it out on guitar. Justin has fun with displacement on Flood. Larnell and Nate take things up a notch. The band sees Larnell’s quote and raises him. Semente is fast. Maz takes a flugelhorn solo on the bridge. Bass harmonics segue strangely into Binky. Justin gets into some cool harmonizations on the second melody. Bullock gets weird on the solo. Justin takes the second solo on Rhodes. The opening theme returns for a brief moment before the drop. A Herbie Hancock quote sneaks its way into the outro. Justin takes it directly into Sleeper. Bobby gives a particularly emotional performance, spontaneously performing/deconstructing the Star-Spangled Banner, then sharing a brief political sentiment (parental discretion advised). Zach absolutely destroys Lingus for the encore. So much voodoo in this gig.",
+        "track_info": "Sold-out show for 1900 at the E-Werk rock club in Cologne. Some serious mojo in this show. Something in the air. Things start in 5th gear with a very uptempo Strawman. First time playing it this tour. Justin takes the rhythm section all over the place on his Rhodes solo. Trades on the outro with Bob taking the lead. Kite gets a little hump to it on the solo section. Maz gets lyrical. Zach stretches in a big way on the outro solo. Grown Folks hits some bumps in the beginning but Bobby reels it back in with a tour of the organ over the first vamp. Bob takes it out on guitar. Justin has fun with displacement on Flood. Larnell and Nate take things up a notch. The band sees Larnell's quote and raises him. Semente is fast. Maz takes a flugelhorn solo on the bridge. Bass harmonics segue strangely into Binky. Justin gets into some cool harmonizations on the second melody. Bullock gets weird on the solo. Justin takes the second solo on Rhodes. The opening theme returns for a brief moment before the drop. A Herbie Hancock quote sneaks its way into the outro. Justin takes it directly into Sleeper. Bobby gives a particularly emotional performance, spontaneously performing/deconstructing the Star-Spangled Banner, then sharing a brief political sentiment (parental discretion advised). Zach absolutely destroys Lingus for the encore. So much voodoo in this gig.",
         "artists": {
             "Chris Bullock": "tenor sax, flute and alto flute",
             "Mike “Maz” Maher": "trumpet and flugelhorn",
@@ -3241,7 +4730,7 @@
         "encore": [
             "What About Me?"
         ],
-        "track_info": "Sold-out show for about 1500 in a very hot Bavarian club. Great audience energy throughout the night. First time ever starting with Gemini, which I really liked. It’s finally found its groove on this tour. Zach weaves through the modulations on violin. Tarova feels great. A relatively short version with Maz taking the solo on effected trumpet. Right into GØ. Bullock howls on the first solo. Justin and the band hint at some Headhunters on the Rhodes solo. Bob takes it out on guitar. Bobby takes the feature on Moog for Thing of Gold. Justin transitions directly into 34 Klezma on Rhodes. The crowd nails 3 over 4 clapping patterns under a pizz solo from Zach. He moves to the bow and stretches. Beep Box is all Bobby. He alternates between Moog and organ over the outro (sometimes both at once), takes it on his own for a bit, then the band comes in hard. My favorite part of the whole night. Nate weaves a thread into Tio Macaco. He and Larnell bring some new calls in just before the finale. Big Ugly finds its way back in for the first time in a while. Bullock takes the first solo left. Bob takes two on guitar and freaks things out with delays to close out the set. What About Me? gets a throwback from Justin, as he pushes the band into a tune from the early days of the band, Intelligent Design. He and Larnell weave back into the song and Larnell trashes the drum solo. A really great night showing this lineup’s comfort and ease on stage together.",
+        "track_info": "Sold-out show for about 1500 in a very hot Bavarian club. Great audience energy throughout the night. First time ever starting with Gemini, which I really liked. It's finally found its groove on this tour. Zach weaves through the modulations on violin. Tarova feels great. A relatively short version with Maz taking the solo on effected trumpet. Right into GØ. Bullock howls on the first solo. Justin and the band hint at some Headhunters on the Rhodes solo. Bob takes it out on guitar. Bobby takes the feature on Moog for Thing of Gold. Justin transitions directly into 34 Klezma on Rhodes. The crowd nails 3 over 4 clapping patterns under a pizz solo from Zach. He moves to the bow and stretches. Beep Box is all Bobby. He alternates between Moog and organ over the outro (sometimes both at once), takes it on his own for a bit, then the band comes in hard. My favorite part of the whole night. Nate weaves a thread into Tio Macaco. He and Larnell bring some new calls in just before the finale. Big Ugly finds its way back in for the first time in a while. Bullock takes the first solo left. Bob takes two on guitar and freaks things out with delays to close out the set. What About Me? gets a throwback from Justin, as he pushes the band into a tune from the early days of the band, Intelligent Design. He and Larnell weave back into the song and Larnell trashes the drum solo. A really great night showing this lineup's comfort and ease on stage together.",
         "artists": {
             "Chris Bullock": "tenor sax, flute and alto flute",
             "Mike “Maz” Maher": "trumpet, flugelhorn and vocals",
@@ -3278,7 +4767,7 @@
         "encore": [
             "Sleeper"
         ],
-        "track_info": "Sold-out show in the cavernous rock club Huxley’s Neue Welt. Grown Folks comes right out of the gate with solos from Zach on violin and an adventure in pitch-shifting with Bob on guitar. Beep Box gets an effected solo from Maz. Outlier is fast, but feels good. Bullock has fun with endless reverb on the solo. On Semente, Justin stretches on Rhodes and the band goes with him. Gemini is grooving. Bobby takes the roof on organ. He lays the melody on Tarova so far back it almost bumps into the last song. Maz takes a wah-wah trumpet solo and is left alone with Larnell. Nate and Larnell take their time setting up Binky. The first solo section goes in a very different direction based on Justin’s Rhodes pattern. Zach shreds over it. Bullock bitcrushes over the second solo section. Bobby gets stupid funky on clav during the outro (On Broadway?). Bob and Larnell go late-60’s on What About Me? Larnell has fun with 3 over 4 and plays some of the craziest stuff I’ve heard on the outro vamp. Bobby puts things to bed with Sleeper.",
+        "track_info": "Sold-out show in the cavernous rock club Huxley's Neue Welt. Grown Folks comes right out of the gate with solos from Zach on violin and an adventure in pitch-shifting with Bob on guitar. Beep Box gets an effected solo from Maz. Outlier is fast, but feels good. Bullock has fun with endless reverb on the solo. On Semente, Justin stretches on Rhodes and the band goes with him. Gemini is grooving. Bobby takes the roof on organ. He lays the melody on Tarova so far back it almost bumps into the last song. Maz takes a wah-wah trumpet solo and is left alone with Larnell. Nate and Larnell take their time setting up Binky. The first solo section goes in a very different direction based on Justin's Rhodes pattern. Zach shreds over it. Bullock bitcrushes over the second solo section. Bobby gets stupid funky on clav during the outro (On Broadway?). Bob and Larnell go late-60's on What About Me? Larnell has fun with 3 over 4 and plays some of the craziest stuff I've heard on the outro vamp. Bobby puts things to bed with Sleeper.",
         "artists": {
             "Chris Bullock": "tenor sax, flute and alto flute",
             "Mike “Maz” Maher": "trumpet and flugelhorn",
@@ -3315,7 +4804,7 @@
             "Sleeper",
             "Quarter Master"
         ],
-        "track_info": "The only Polish gig of the tour. Amazing crowd in a beautiful concert hall. Kite eases things in. Maz takes a flugelhorn solo. Zach takes an extended solo as things get funky/out on the outro. Semente is brisk- very brisk. Justin takes the solo on Rhodes. Tarova is mean. Bob rocks the solo section. Nate takes a solo over the outro vamp. Bullock takes the first solo on GØ. Bobby takes a clav solo, then moves over to organ. The band can’t leave the section. Justin takes a distorted Moog solo to close out the tune. Grown Folks gets a bass solo, then Bullock and Bob finish it out. Gemini feels good. Zach takes the solo on violin. Justin and Larnell get into it on the Rhodes solo in What About Me? Larnell slows things down on his solo just so he speed up. Crazy stuff. Bobby leads the encore on Sleeper. The crowd wants another. The horns trade on a mid-tempo Quarter Master to wrap up the night.",
+        "track_info": "The only Polish gig of the tour. Amazing crowd in a beautiful concert hall. Kite eases things in. Maz takes a flugelhorn solo. Zach takes an extended solo as things get funky/out on the outro. Semente is brisk- very brisk. Justin takes the solo on Rhodes. Tarova is mean. Bob rocks the solo section. Nate takes a solo over the outro vamp. Bullock takes the first solo on GØ. Bobby takes a clav solo, then moves over to organ. The band can't leave the section. Justin takes a distorted Moog solo to close out the tune. Grown Folks gets a bass solo, then Bullock and Bob finish it out. Gemini feels good. Zach takes the solo on violin. Justin and Larnell get into it on the Rhodes solo in What About Me? Larnell slows things down on his solo just so he speed up. Crazy stuff. Bobby leads the encore on Sleeper. The crowd wants another. The horns trade on a mid-tempo Quarter Master to wrap up the night.",
         "artists": {
             "Chris Bullock": "tenor sax, flute and alto flute",
             "Mike “Maz” Maher": "trumpet and flugelhorn",
@@ -3351,7 +4840,7 @@
         "encore": [
             "Shofukan"
         ],
-        "track_info": "Playing in the home of Zeppelin! Well, the actual zeppelin. A beautiful theatre on the Bodensee, with the Swiss alps right across the water. This set saw things go to deeper and darker places than normal, especially in Gemini and Binky, my two favorites of the night. Justin’s on fire the whole evening. Beep Box starts things off eerily. Zach takes a violin solo over the outro. GØ is at a nice tempo. Bullock takes the first solo and Justin takes the last one on Moog, with a bass solo in the middle. My favorite version of Gemini thus far this tour. Great tempo and a beautiful Moog solo by Bobby. Semente gets kind of funky during Justin’s Rhodes solo. Binky merges out of the outro with a percussive bass introduction. Bullock takes an effected tenor solo and Maz gets rhythmic with Larnell on flugelhorn. The outro goes Bob James and simmers for a while. The groove feels good. Zach takes a solo. It finally dissolves. Nate brings in Tio Macaco. Bobby takes his time on Sleeper. A relatively brief version of Shofukan (with a trumpet solo from Justin) closes out the night.",
+        "track_info": "Playing in the home of Zeppelin! Well, the actual zeppelin. A beautiful theatre on the Bodensee, with the Swiss alps right across the water. This set saw things go to deeper and darker places than normal, especially in Gemini and Binky, my two favorites of the night. Justin's on fire the whole evening. Beep Box starts things off eerily. Zach takes a violin solo over the outro. GØ is at a nice tempo. Bullock takes the first solo and Justin takes the last one on Moog, with a bass solo in the middle. My favorite version of Gemini thus far this tour. Great tempo and a beautiful Moog solo by Bobby. Semente gets kind of funky during Justin's Rhodes solo. Binky merges out of the outro with a percussive bass introduction. Bullock takes an effected tenor solo and Maz gets rhythmic with Larnell on flugelhorn. The outro goes Bob James and simmers for a while. The groove feels good. Zach takes a solo. It finally dissolves. Nate brings in Tio Macaco. Bobby takes his time on Sleeper. A relatively brief version of Shofukan (with a trumpet solo from Justin) closes out the night.",
         "artists": {
             "Chris Bullock": "tenor sax, flute and alto flute",
             "Mike “Maz” Maher": "trumpet and flugelhorn",
@@ -3461,7 +4950,7 @@
         "encore": [
             "Lingus"
         ],
-        "track_info": "Smallish rock club an hour south of Frankfurt. The room was really, really hot. Maz uses Bobby’s clavinet comping to kickstart his flugelhorn solo in Kite. Justin phrases on Rhodes. Zach solos on Semente. Whitecap emerges from the outro. Justin finds some colors on the bridge. Bullock develops a chromatic motif over a funky vamp. Flood feels good. Justin stretches on Rhodes. Bobby sings over Thing of Gold. Zach gets weird on a tour of violin effects on What About Me? One of my favorite moments of the tour during Larnell’s solo, which sadly can’t be done justice without video. About 90% of the way through his solo, he loses a stick and, while still playing with complete fluidity with the remaining three limbs, proceeds to pull out five or six different mallets and brushes before finally finding an actual drumstick. Big Ugly starts off a bit fast but then settles. Maz and Bullock have playtime with effects. Bob takes it out. Another lost-without-video moment: Justin starts the encore of Lingus early to see how fast Larnell can get behind the drum set. He, of course, makes it just in time, but I forgot to unplug from keybass and into my electric bass. Extended intro, anyone? Bobby trashes the solo section on organ and Minimoog.",
+        "track_info": "Smallish rock club an hour south of Frankfurt. The room was really, really hot. Maz uses Bobby's clavinet comping to kickstart his flugelhorn solo in Kite. Justin phrases on Rhodes. Zach solos on Semente. Whitecap emerges from the outro. Justin finds some colors on the bridge. Bullock develops a chromatic motif over a funky vamp. Flood feels good. Justin stretches on Rhodes. Bobby sings over Thing of Gold. Zach gets weird on a tour of violin effects on What About Me? One of my favorite moments of the tour during Larnell's solo, which sadly can't be done justice without video. About 90% of the way through his solo, he loses a stick and, while still playing with complete fluidity with the remaining three limbs, proceeds to pull out five or six different mallets and brushes before finally finding an actual drumstick. Big Ugly starts off a bit fast but then settles. Maz and Bullock have playtime with effects. Bob takes it out. Another lost-without-video moment: Justin starts the encore of Lingus early to see how fast Larnell can get behind the drum set. He, of course, makes it just in time, but I forgot to unplug from keybass and into my electric bass. Extended intro, anyone? Bobby trashes the solo section on organ and Minimoog.",
         "artists": {
             "Chris Bullock": "tenor sax, flute and alto flute",
             "Mike “Maz” Maher": "trumpet and flugelhorn",
@@ -3499,7 +4988,7 @@
         "encore": [
             "Sleeper"
         ],
-        "track_info": "First German gig of the tour. Old-school, cavernous rock and roll room with about 1300 people. Pretty dark setlist with direct transitions between almost every song. GØ has solos from Bullock on effected tenor, Justin on Rhodes, and Bob on guitar. Beep Box feels great. Maz solos over the outro vamp. First time ever having a violin on Outlier. Zach rips through the solo section. Justin eases Thing of Gold in on Rhodes. First time playing it with this lineup. Bobby takes the lead and Maz blows over the bridge. Tarova’s next. Bobby plays the melody as far back as it could possibly go without bumping into the last song. Bob solos on guitar. Grown Folks gets solos from Bullock in the middle and Zach on the outro. Nate does a tour of tempos to set up Tio Macaco. He and Larnell take a (relatively) short duo solo to close it out. Justin takes a trumpet solo on Young Stuff. Bobby gets spiritual on organ. Shofukan is fast- very fast. Zach takes the solo on violin. Bobby owns Sleeper for the encore. A fluid set with great crowd energy.",
+        "track_info": "First German gig of the tour. Old-school, cavernous rock and roll room with about 1300 people. Pretty dark setlist with direct transitions between almost every song. GØ has solos from Bullock on effected tenor, Justin on Rhodes, and Bob on guitar. Beep Box feels great. Maz solos over the outro vamp. First time ever having a violin on Outlier. Zach rips through the solo section. Justin eases Thing of Gold in on Rhodes. First time playing it with this lineup. Bobby takes the lead and Maz blows over the bridge. Tarova's next. Bobby plays the melody as far back as it could possibly go without bumping into the last song. Bob solos on guitar. Grown Folks gets solos from Bullock in the middle and Zach on the outro. Nate does a tour of tempos to set up Tio Macaco. He and Larnell take a (relatively) short duo solo to close it out. Justin takes a trumpet solo on Young Stuff. Bobby gets spiritual on organ. Shofukan is fast- very fast. Zach takes the solo on violin. Bobby owns Sleeper for the encore. A fluid set with great crowd energy.",
         "artists": {
             "Chris Bullock": "tenor sax, flute and alto flute",
             "Mike “Maz” Maher": "trumpet and flugelhorn",
@@ -3535,7 +5024,7 @@
         "encore": [
             "Sleeper"
         ],
-        "track_info": "Last show of the French tour. Lots of stretching in this one. Maybe the weirdest gig (musically) of the trip so far. Beep Box gets things off to an eerie start. Justin sinks into an atmosphere on Rhodes under Maz’s solo. Grown Folks goes straight church with Bobby on organ. Bob takes the last solo on guitar. Justin takes a Rhodes solo on Semente, which Larnell and Nate gently ease into Binky. The tune starts, and stays, dark. Bullock takes a screaming, minimalist solo on effected tenor. Maz and Larnell get into some rhythmic interplay during a flugel horn solo. Lots of (milked) Rhodes and bass conversation before the outro. The band moves quickly into the longest version of Tarova we’ve ever played. Zach takes a solo on violin (though it doesn’t sound like it) and the band eventually breaks down to just him and Bobby, who goes P-Funk on Minimoog bass. Everyone joins the trance one by one until it launches back into the tune. Nate takes a percussion solo amidst “Tutu” quotes. Gemini cools things off for a bit before Bobby solos on Minimoog. What About Me? gets a seriously aggressive treatment from Bob and Larnell. Bobby takes things home on the encore with Sleeper. If you’ve been checking out other live shows, this will be a good one for you. Very different flavor.",
+        "track_info": "Last show of the French tour. Lots of stretching in this one. Maybe the weirdest gig (musically) of the trip so far. Beep Box gets things off to an eerie start. Justin sinks into an atmosphere on Rhodes under Maz's solo. Grown Folks goes straight church with Bobby on organ. Bob takes the last solo on guitar. Justin takes a Rhodes solo on Semente, which Larnell and Nate gently ease into Binky. The tune starts, and stays, dark. Bullock takes a screaming, minimalist solo on effected tenor. Maz and Larnell get into some rhythmic interplay during a flugel horn solo. Lots of (milked) Rhodes and bass conversation before the outro. The band moves quickly into the longest version of Tarova we've ever played. Zach takes a solo on violin (though it doesn't sound like it) and the band eventually breaks down to just him and Bobby, who goes P-Funk on Minimoog bass. Everyone joins the trance one by one until it launches back into the tune. Nate takes a percussion solo amidst “Tutu” quotes. Gemini cools things off for a bit before Bobby solos on Minimoog. What About Me? gets a seriously aggressive treatment from Bob and Larnell. Bobby takes things home on the encore with Sleeper. If you've been checking out other live shows, this will be a good one for you. Very different flavor.",
         "artists": {
             "Chris Bullock": "tenor sax, flute and alto flute",
             "Mike “Maz” Maher": "trumpet and flugelhorn",
@@ -3571,7 +5060,7 @@
         "encore": [
             "Big Ugly"
         ],
-        "track_info": "An intimate venue in a small town 6 hours south of Paris. Maz takes a flugelhorn solo on Kite to start things off. Justin’s Rhodes solo at the end of Kite takes a left turn and goes a little bit church. Zach goes Hendrix straight out of the gate on GØ. Bobby takes a clavinet solo on the bridge. Bob takes it out on guitar. Beep Box gets some fire (and a few Jean-Pierre quotes) from Maz on the outro. Justin segues into 34 Klezma on Rhodes. Bullock and Justin stretch rhythmically on the solo. The band comes in and things get weird/funky. Nate segues into a funky Tio Macaco. Bullock gets sparse on Young Stuff. Bass solo on the outro moves around in a lot of different directions. Things move directly into a mid-tempo Quarter Master. Bobby Sparks gives an organ masterclass. Larnell takes a free solo. The encore is Big Ugly. Zach shreds. Bob shreds. Everybody’s happy.",
+        "track_info": "An intimate venue in a small town 6 hours south of Paris. Maz takes a flugelhorn solo on Kite to start things off. Justin's Rhodes solo at the end of Kite takes a left turn and goes a little bit church. Zach goes Hendrix straight out of the gate on GØ. Bobby takes a clavinet solo on the bridge. Bob takes it out on guitar. Beep Box gets some fire (and a few Jean-Pierre quotes) from Maz on the outro. Justin segues into 34 Klezma on Rhodes. Bullock and Justin stretch rhythmically on the solo. The band comes in and things get weird/funky. Nate segues into a funky Tio Macaco. Bullock gets sparse on Young Stuff. Bass solo on the outro moves around in a lot of different directions. Things move directly into a mid-tempo Quarter Master. Bobby Sparks gives an organ masterclass. Larnell takes a free solo. The encore is Big Ugly. Zach shreds. Bob shreds. Everybody's happy.",
         "artists": {
             "Chris Bullock": "tenor sax, flute and alto flute",
             "Mike “Maz” Maher": "trumpet and flugelhorn",
@@ -3604,7 +5093,7 @@
             "Shofukan",
             "Lingus"
         ],
-        "track_info": "From Michael League: Back in the legendary Olympia in Paris. Sold-out show for almost 3,000 people. Amazing vibe between the audience and band all night. Bold choice starting with Big Ugly. Maz and Bob take solos. Justin takes a Rhodes solo on Semente. Zach gets weird on Grown Folks and Bob takes it out. Maz plays on the outro to Beep Box. Tarova is super funky. Things go go-go in the solo. Bullock takes two. Nate plays over the outro vamp and Justin instigates some 90’s hip-hop. Gemini gets an organ and Moog solo from Bobby. Justin and Larnell get into heavy linear conversation on What About Me? Larnell trashes the outro. Bobby sings on Sleeper and things get churchy with him and Justin before a reprise. Justin blows on the first encore, Shofukan, then Nate and Larnell alternate between bhangra and drum n bass on the outro. The crowd sings until the band reemerges for Lingus, with Zach stretching on violin. Incredible energy from the crowd throughout. A really special night.",
+        "track_info": "From Michael League: Back in the legendary Olympia in Paris. Sold-out show for almost 3,000 people. Amazing vibe between the audience and band all night. Bold choice starting with Big Ugly. Maz and Bob take solos. Justin takes a Rhodes solo on Semente. Zach gets weird on Grown Folks and Bob takes it out. Maz plays on the outro to Beep Box. Tarova is super funky. Things go go-go in the solo. Bullock takes two. Nate plays over the outro vamp and Justin instigates some 90's hip-hop. Gemini gets an organ and Moog solo from Bobby. Justin and Larnell get into heavy linear conversation on What About Me? Larnell trashes the outro. Bobby sings on Sleeper and things get churchy with him and Justin before a reprise. Justin blows on the first encore, Shofukan, then Nate and Larnell alternate between bhangra and drum n bass on the outro. The crowd sings until the band reemerges for Lingus, with Zach stretching on violin. Incredible energy from the crowd throughout. A really special night.",
         "artists": {
             "Chris Bullock": "tenor sax, flute and alto flute",
             "Mike “Maz” Maher": "trumpet and flugelhorn",
@@ -3636,7 +5125,7 @@
         "encore": [
             "Shofukan"
         ],
-        "track_info": "Our third time in this beautiful venue over the last few years. Rich low end in the hall. The new lineup is gelling. Flood eases things in with a solo from Justin on Rhodes and Larnell on drums. Semente gets a flugelhorn solo from Maz and a nice, spacey outro. Gemini feels completely different with this incarnation of the band. Bobby takes a Minimoog solo. Tarova is funky. Bullock gets dirty on the solo section and the band leaves him and Larnell to duel it out. Justin brings in 34 Klezma with a rubato intro on Rhodes. Zach goes from pizz to Hendrix on a violin solo over a 6/8 bed from the rhythm section. Whitecap is grooving. Maz takes a solo over the last vamp. After a moment of indecision, the band plays Grown Folks. Bullock brings it all the way down and Bob wraps it up. My favorite part of the night is Bobby’s performance on Sleeper. The encore is Shofukan, with a trumpet solo from Justin and a frenzied percussion and drum duo just before the final melody.",
+        "track_info": "Our third time in this beautiful venue over the last few years. Rich low end in the hall. The new lineup is gelling. Flood eases things in with a solo from Justin on Rhodes and Larnell on drums. Semente gets a flugelhorn solo from Maz and a nice, spacey outro. Gemini feels completely different with this incarnation of the band. Bobby takes a Minimoog solo. Tarova is funky. Bullock gets dirty on the solo section and the band leaves him and Larnell to duel it out. Justin brings in 34 Klezma with a rubato intro on Rhodes. Zach goes from pizz to Hendrix on a violin solo over a 6/8 bed from the rhythm section. Whitecap is grooving. Maz takes a solo over the last vamp. After a moment of indecision, the band plays Grown Folks. Bullock brings it all the way down and Bob wraps it up. My favorite part of the night is Bobby's performance on Sleeper. The encore is Shofukan, with a trumpet solo from Justin and a frenzied percussion and drum duo just before the final melody.",
         "artists": {
             "Chris Bullock": "tenor sax, flute and alto flute",
             "Mike “Maz” Maher": "trumpet and flugelhorn",
@@ -3668,7 +5157,7 @@
         "encore": [
             "What About Me?"
         ],
-        "track_info": "Four fresh faces for the first French gig of the tour (Nate, Zach, Bobby, and Bob). This is the third, and last, lineup of the 10-week run. Normally it takes a few days for things to click when the personnel changes, but things feel good right away. GØ is funky (largely thanks to Bobby’s distorted clav playing) with an FX trumpet solo from Maz to start things off. Justin toys with the bassline as a motif on Rhodes. Bob finishes it out on guitar. Beep Box gets a Moog solo from outer space (care of Bobby). Zach takes a violin solo on Grown Folks, then Bob at the end. Bullock takes his time on Kite. You can really feel the difference with the new rhythm section on this one. Justin solos over the outro on Rhodes. Maz wah-wahs on Tarova. Young Stuff gets a funky solo from Bullock, then a pretty epic organ/Moog adventure with Bobby. Highlight of the set. Nate keeps the energy up on Tio Macaco. Zach really takes his time on Lingus to close out the set. What About Me? is fast. Really fast. Bob gets spacey before the band reenters. Larnell burns through the solo vamp on top of Justin’s Moog.",
+        "track_info": "Four fresh faces for the first French gig of the tour (Nate, Zach, Bobby, and Bob). This is the third, and last, lineup of the 10-week run. Normally it takes a few days for things to click when the personnel changes, but things feel good right away. GØ is funky (largely thanks to Bobby's distorted clav playing) with an FX trumpet solo from Maz to start things off. Justin toys with the bassline as a motif on Rhodes. Bob finishes it out on guitar. Beep Box gets a Moog solo from outer space (care of Bobby). Zach takes a violin solo on Grown Folks, then Bob at the end. Bullock takes his time on Kite. You can really feel the difference with the new rhythm section on this one. Justin solos over the outro on Rhodes. Maz wah-wahs on Tarova. Young Stuff gets a funky solo from Bullock, then a pretty epic organ/Moog adventure with Bobby. Highlight of the set. Nate keeps the energy up on Tio Macaco. Zach really takes his time on Lingus to close out the set. What About Me? is fast. Really fast. Bob gets spacey before the band reenters. Larnell burns through the solo vamp on top of Justin's Moog.",
         "artists": {
             "Chris Bullock": "tenor sax, flute and alto flute",
             "Mike “Maz” Maher": "trumpet and flugelhorn",
@@ -3699,7 +5188,7 @@
         "encore": [
             "Shofukan"
         ],
-        "track_info": "Our first gig in Luxembourg. Small, intimate, great sounding room with a real listening crowd. This is McQueen’s night. Larnell sets up Binky with a long intro. Bullock and Maz take the first solos of the night. Things get weird at the end. Semente gets a Rhodes solo from Bill. Outlier picks things up and Bob Reynolds owns. Justin takes a Minimoog solo for the first time on Palermo. Marcelo finishes it off with the crowd clapping along. GØ is late in the set for the first time in a while. McQueen explores during the second solo. Justin takes it out on Moog. Bullock blows on Young Stuff, followed by an interactive Rhodes solo by Bill. McQueen starts off his solo in What About Me? with a wall of ambience, then rips things open. Larnell stretches time to close out the set. The band encores with Shofukan. Justin takes a trumpet solo. Larnell and Marcelo joust it out for a minute, then the band quotes Parliament (three times). McQueen brings it back in with some dirt and the band takes it out.",
+        "track_info": "Our first gig in Luxembourg. Small, intimate, great sounding room with a real listening crowd. This is McQueen's night. Larnell sets up Binky with a long intro. Bullock and Maz take the first solos of the night. Things get weird at the end. Semente gets a Rhodes solo from Bill. Outlier picks things up and Bob Reynolds owns. Justin takes a Minimoog solo for the first time on Palermo. Marcelo finishes it off with the crowd clapping along. GØ is late in the set for the first time in a while. McQueen explores during the second solo. Justin takes it out on Moog. Bullock blows on Young Stuff, followed by an interactive Rhodes solo by Bill. McQueen starts off his solo in What About Me? with a wall of ambience, then rips things open. Larnell stretches time to close out the set. The band encores with Shofukan. Justin takes a trumpet solo. Larnell and Marcelo joust it out for a minute, then the band quotes Parliament (three times). McQueen brings it back in with some dirt and the band takes it out.",
         "artists": {
             "Chris Bullock": "tenor sax",
             "Bob Reynolds": "tenor sax",
@@ -3736,7 +5225,7 @@
         "encore": [
             "What About Me?"
         ],
-        "track_info": "After a rare day off, the band returns to the very familiar Ancienne Belgique, one of our favorite venues in Europe (and one we have been playing for four years now). The sound is always immaculate in this room, and you can feel it in the way everyone is playing. We ended up doing seven straight songs from Culcha Vulcha and saving the familiar material for the very end of the set. Things start off relatively mellow with Grown Folks. Bullock takes the first solo of the night. McQueen plays a little longer than usual over the outro. Beep Box plays to the beautiful dynamics of the room and Maz’s solo moves over a very malleable canvas from the rhythm section. GØ feels better than it ever has before. Bob Reynolds takes the first solo. Bill explores harmonically on Rhodes. Justin finishes it out on Minimoog. Palermo sees an extended solo from Chris Bullock. Tarova gets super funky under an effected trumpet solo by Maz. Things get reined in with Gemini. Justin and Bill trade. Big Ugly hits a nice stride and Justin swallows the mic on a beautiful trumpet solo. McQueen turns up, twice. Bob Reynolds owns the solo on Lingus. Bill and Larnell turn What About Me? into a dance/house vibe, and Larnell somehow manages to keep off-beats happening on hi-hat throughout his entire solo. Really crazy. Great night from top to bottom.",
+        "track_info": "After a rare day off, the band returns to the very familiar Ancienne Belgique, one of our favorite venues in Europe (and one we have been playing for four years now). The sound is always immaculate in this room, and you can feel it in the way everyone is playing. We ended up doing seven straight songs from Culcha Vulcha and saving the familiar material for the very end of the set. Things start off relatively mellow with Grown Folks. Bullock takes the first solo of the night. McQueen plays a little longer than usual over the outro. Beep Box plays to the beautiful dynamics of the room and Maz's solo moves over a very malleable canvas from the rhythm section. GØ feels better than it ever has before. Bob Reynolds takes the first solo. Bill explores harmonically on Rhodes. Justin finishes it out on Minimoog. Palermo sees an extended solo from Chris Bullock. Tarova gets super funky under an effected trumpet solo by Maz. Things get reined in with Gemini. Justin and Bill trade. Big Ugly hits a nice stride and Justin swallows the mic on a beautiful trumpet solo. McQueen turns up, twice. Bob Reynolds owns the solo on Lingus. Bill and Larnell turn What About Me? into a dance/house vibe, and Larnell somehow manages to keep off-beats happening on hi-hat throughout his entire solo. Really crazy. Great night from top to bottom.",
         "artists": {
             "Chris Bullock": "tenor sax",
             "Bob Reynolds": "tenor sax",
@@ -3773,7 +5262,7 @@
         "encore": [
             "Big Ugly"
         ],
-        "track_info": "Last show of the UK run. A beautiful (and acoustically immaculate) little theatre in the south of England with a very mellow listening audience. Nice opportunity for the band to play a more sensitive set dynamically. Kite eases things in to start. Bullock takes a solo on tenor. Bill plays over the outro as drums and bass hint at dub. Bob plays on Semente. Tarova gets funky with Bill moving over to clavinet under Justin’s solo on Minimoog. Things calm down with Beep Box. Bill brings clav into the outro and the groove shifts while Maz solos on trumpet. Grown Folks has solos from bass, tenor (with a healthy dose of effects), and guitar. Justin sings through the Minimoog on Thing of Gold. Maz takes the solo on the bridge. Marcelo opens Tio Macaco with a pandeiro intro. The horns take short turns. Larnell and Marcelo break down for their collective solo, then eventually take it to a New Jack Swing groove. Bill runs Ready Wednesday from top to bottom, taking the solo as well. The band encores with Big Ugly. An unlikely choice for this crowd, but it works. Maz takes the first solo and McQueen kisses the crowd goodnight. Acoustically/sonically, one of the better sounding shows we’ve recorded.",
+        "track_info": "Last show of the UK run. A beautiful (and acoustically immaculate) little theatre in the south of England with a very mellow listening audience. Nice opportunity for the band to play a more sensitive set dynamically. Kite eases things in to start. Bullock takes a solo on tenor. Bill plays over the outro as drums and bass hint at dub. Bob plays on Semente. Tarova gets funky with Bill moving over to clavinet under Justin's solo on Minimoog. Things calm down with Beep Box. Bill brings clav into the outro and the groove shifts while Maz solos on trumpet. Grown Folks has solos from bass, tenor (with a healthy dose of effects), and guitar. Justin sings through the Minimoog on Thing of Gold. Maz takes the solo on the bridge. Marcelo opens Tio Macaco with a pandeiro intro. The horns take short turns. Larnell and Marcelo break down for their collective solo, then eventually take it to a New Jack Swing groove. Bill runs Ready Wednesday from top to bottom, taking the solo as well. The band encores with Big Ugly. An unlikely choice for this crowd, but it works. Maz takes the first solo and McQueen kisses the crowd goodnight. Acoustically/sonically, one of the better sounding shows we've recorded.",
         "artists": {
             "Chris Bullock": "tenor sax",
             "Bob Reynolds": "tenor sax",
@@ -3810,7 +5299,7 @@
             "Shofukan",
             "What About Me?"
         ],
-        "track_info": "Hands down, my favorite gig of the tour to date. First ever show in Wales, one night after our biggest concert ever (London). Small-ish club, intimate vibe, truly unbelievable crowd. Bob Reynolds owns this one. Palermo opens the set with an energetic solo from Maz. Bob takes a rare solo on GØ, then McQueen rocks the envelope filter for a very extended solo over the bridge. Justin takes it out on Minimoog. Gemini is slow and full of mojo. Maz and Bullock get weird on the vamp. Bill and Justin trade on Minimoog and Rhodes. On Outlier, Bullock takes a cowbell phrase from Larnell and develops it as Justin drops in little intermittent treats. Bill phrases his butt off on Rhodes during Semente. Justin bops through Young Stuff on trumpet, and Larnell and Michael get on the same wavelength during a bass solo. Big Ugly is the song that won’t end with three (yes, three) guitar solos from McQueen and a reprise after Maz takes the first section. The band encores Shofukan with an unbelievable tenor solo from Bob (his first ever on that tune) and an extended drum and percussion shenaniganza with Larnell and Marcelo. The crowd sings the hook until the band reemerges for a second encore. What About Me? gets a tour of the stage left keyboard station (Nord, Moog, Rhodes, and clavinet) from Bill as McQueen and Justin paint underneath him. Larnell lights it up to close out the night.",
+        "track_info": "Hands down, my favorite gig of the tour to date. First ever show in Wales, one night after our biggest concert ever (London). Small-ish club, intimate vibe, truly unbelievable crowd. Bob Reynolds owns this one. Palermo opens the set with an energetic solo from Maz. Bob takes a rare solo on GØ, then McQueen rocks the envelope filter for a very extended solo over the bridge. Justin takes it out on Minimoog. Gemini is slow and full of mojo. Maz and Bullock get weird on the vamp. Bill and Justin trade on Minimoog and Rhodes. On Outlier, Bullock takes a cowbell phrase from Larnell and develops it as Justin drops in little intermittent treats. Bill phrases his butt off on Rhodes during Semente. Justin bops through Young Stuff on trumpet, and Larnell and Michael get on the same wavelength during a bass solo. Big Ugly is the song that won't end with three (yes, three) guitar solos from McQueen and a reprise after Maz takes the first section. The band encores Shofukan with an unbelievable tenor solo from Bob (his first ever on that tune) and an extended drum and percussion shenaniganza with Larnell and Marcelo. The crowd sings the hook until the band reemerges for a second encore. What About Me? gets a tour of the stage left keyboard station (Nord, Moog, Rhodes, and clavinet) from Bill as McQueen and Justin paint underneath him. Larnell lights it up to close out the night.",
         "artists": {
             "Chris Bullock": "tenor sax",
             "Bob Reynolds": "tenor sax",
@@ -3847,7 +5336,7 @@
         "encore": [
             "Lingus**"
         ],
-        "track_info": "Sold-out show for 5,000 at the legendary Brixton Academy. It’s the band’s largest non-festival gig to date. The vibe is electric from the first note. Beep Box eases the set in with a flugelhorn solo from Maz over a slinky, fluid outro groove. Grown Folks is laid-back and groovy. Bob takes his time with a tenor solo and McQueen plays over the outro vamp. Bill keeps the energy up with a percussive intro to a funky Ready Wednesday (thanks to Larnell). Justin works the Minimoog on the solo section. After a longer, more etherial outro than normal, things pick back up with Tarova. Maz takes an effected solo, then goes duo with Larnell amidst improvised full-band hits. Marcelo develops rhythmic motifs on djembe for a solo over the outro vamp. The band sits in the solo section on Palermo for a while with Bullock on top of it. Marcelo stretches on the outro while the crowd holds it down with the chacarera clapping pattern. Justin takes the lead on Thing of Gold. Bob plays over the bridge. Big Ugly is slow and powerful. McQueen takes both solos. What About Me? goes as usual until after the chorus. The band smoothly transitions into Phenomenal Woman, joined by Laura Mvula on lead vocals and Becca Stevens backing. Bill takes a clav break. The tune ends, then launches right back into the drum solo for What About Me? You can hear Larnell slowly taking off his sweater and watch while the crowd eggs him on. Funny stuff. Lingus gets a cameo from English wunderkind Jacob Collier, who attacks Bill’s keyboard station like a kid in a playground. Very special energy throughout this one. Helluva night.",
+        "track_info": "Sold-out show for 5,000 at the legendary Brixton Academy. It's the band's largest non-festival gig to date. The vibe is electric from the first note. Beep Box eases the set in with a flugelhorn solo from Maz over a slinky, fluid outro groove. Grown Folks is laid-back and groovy. Bob takes his time with a tenor solo and McQueen plays over the outro vamp. Bill keeps the energy up with a percussive intro to a funky Ready Wednesday (thanks to Larnell). Justin works the Minimoog on the solo section. After a longer, more etherial outro than normal, things pick back up with Tarova. Maz takes an effected solo, then goes duo with Larnell amidst improvised full-band hits. Marcelo develops rhythmic motifs on djembe for a solo over the outro vamp. The band sits in the solo section on Palermo for a while with Bullock on top of it. Marcelo stretches on the outro while the crowd holds it down with the chacarera clapping pattern. Justin takes the lead on Thing of Gold. Bob plays over the bridge. Big Ugly is slow and powerful. McQueen takes both solos. What About Me? goes as usual until after the chorus. The band smoothly transitions into Phenomenal Woman, joined by Laura Mvula on lead vocals and Becca Stevens backing. Bill takes a clav break. The tune ends, then launches right back into the drum solo for What About Me? You can hear Larnell slowly taking off his sweater and watch while the crowd eggs him on. Funny stuff. Lingus gets a cameo from English wunderkind Jacob Collier, who attacks Bill's keyboard station like a kid in a playground. Very special energy throughout this one. Helluva night.",
         "artists": {
             "Chris Bullock": "tenor sax",
             "Bob Reynolds": "tenor sax",
@@ -3894,7 +5383,7 @@
         "encore": [
             "Shofukan"
         ],
-        "track_info": "Longest and one of the most... um... uptempo shows of the tour thus far. In the legendary Apollo with 2,000+ in the audience. Most of the tunes are faster than usual (too much coffee in the greenroom?). The room and crowd felt great, so we just kept playing. GØ starts things off briskly. Bullock takes the first solo. Justin dials up a percussive lead sound on the Minimoog for the second solo. McQueen plays over the outro. Maz attacks the outro of Beep Box on flugel. Bill moves between Moog and Nord on Grown Folks. McQueen finishes it off, then leads off Flood with a slightly more percussive intro than normal. The band sneaks in. Bob takes one on tenor. Larnell takes it from there with a hemiola-heavy solo. Tarova is flying, but feels good. Bullock and Larnell duke it out on the solo vamp. Gemini is patient and the band sits in the etherial mid-song vamp for a long time. Bill and Justin trade on Minimoog and Rhodes, respectively, on the outro. Marcelo intros Tio Macaco on pandeiro. The horns trade. Marcelo solos, then passes it over to Larnell. Big Ugly sees distorted, dirty solos from Maz and McQueen, who is prodded to play twice. The crowd asks for more Bill, and gets it on Lingus. He starts with spacey chords over Justin’s massive Minimoog bass sound and moves over to Rhodes, then Moog after the horn entrance. A really nice, out-of-the-comfort-zone performance from Billy. For the encore, Justin takes a beautifully restrained solo on Shofukan. Lots of great moments and a consistently good vibe from both the band and audience.",
+        "track_info": "Longest and one of the most... um... uptempo shows of the tour thus far. In the legendary Apollo with 2,000+ in the audience. Most of the tunes are faster than usual (too much coffee in the greenroom?). The room and crowd felt great, so we just kept playing. GØ starts things off briskly. Bullock takes the first solo. Justin dials up a percussive lead sound on the Minimoog for the second solo. McQueen plays over the outro. Maz attacks the outro of Beep Box on flugel. Bill moves between Moog and Nord on Grown Folks. McQueen finishes it off, then leads off Flood with a slightly more percussive intro than normal. The band sneaks in. Bob takes one on tenor. Larnell takes it from there with a hemiola-heavy solo. Tarova is flying, but feels good. Bullock and Larnell duke it out on the solo vamp. Gemini is patient and the band sits in the etherial mid-song vamp for a long time. Bill and Justin trade on Minimoog and Rhodes, respectively, on the outro. Marcelo intros Tio Macaco on pandeiro. The horns trade. Marcelo solos, then passes it over to Larnell. Big Ugly sees distorted, dirty solos from Maz and McQueen, who is prodded to play twice. The crowd asks for more Bill, and gets it on Lingus. He starts with spacey chords over Justin's massive Minimoog bass sound and moves over to Rhodes, then Moog after the horn entrance. A really nice, out-of-the-comfort-zone performance from Billy. For the encore, Justin takes a beautifully restrained solo on Shofukan. Lots of great moments and a consistently good vibe from both the band and audience.",
         "artists": {
             "Chris Bullock": "tenor sax",
             "Bob Reynolds": "tenor sax",
@@ -3931,7 +5420,7 @@
         "encore": [
             "Shofukan"
         ],
-        "track_info": "Our first time in Gateshead/Newcastle in 3 years, finally playing the big room at the famous Sage. Standing audience down front, seating behind and on the sides. Michael eases Binky in. Bullock and Maz play on it. The band really takes its time on the gradually waning outro section. Things get weird. Semente gets a solo from Bill on Rhodes. Bob Reynolds plays on Whitecap. Beep Box is extra spacious on the outro with Justin and McQueen laying out for a bit under Maz’s solo. Tarova is slow and funky. Bill takes a Moog solo. Palermo is a highlight. Bullock takes the solo and Marcelo plays around the crowd’s clapping on the outro. Bob takes the first solo in Young Stuff and Justin takes a rare Moog solo on the vamp. Big Ugly gets two solos from McQueen after Maz takes the vamp. Justin plays on Shofukan, then Larnell and Marcelo duel it out to close out the evening. A beautiful sounding room with a lively crowd.",
+        "track_info": "Our first time in Gateshead/Newcastle in 3 years, finally playing the big room at the famous Sage. Standing audience down front, seating behind and on the sides. Michael eases Binky in. Bullock and Maz play on it. The band really takes its time on the gradually waning outro section. Things get weird. Semente gets a solo from Bill on Rhodes. Bob Reynolds plays on Whitecap. Beep Box is extra spacious on the outro with Justin and McQueen laying out for a bit under Maz's solo. Tarova is slow and funky. Bill takes a Moog solo. Palermo is a highlight. Bullock takes the solo and Marcelo plays around the crowd's clapping on the outro. Bob takes the first solo in Young Stuff and Justin takes a rare Moog solo on the vamp. Big Ugly gets two solos from McQueen after Maz takes the vamp. Justin plays on Shofukan, then Larnell and Marcelo duel it out to close out the evening. A beautiful sounding room with a lively crowd.",
         "artists": {
             "Chris Bullock": "tenor sax",
             "Bob Reynolds": "tenor sax",
@@ -3963,7 +5452,7 @@
         "encore": [
             "What About Me?"
         ],
-        "track_info": "First night doing the multi-track recording. We had digital distortion for the first half of the set, so only the last four songs are available. Bob Reynolds rips through Outlier. Bullock takes a distorted tenor solo on Big Ugly before McQueen and Larnell duke it out over the outro. The crowd won’t let the last melodic phrase go, so Bill uses it to transition into Ready Wednesday. Maz goes late Miles on the solo section to What About Me? and Larnell absolutely trashes the drum solo to close it out. Lots of fire in this set.",
+        "track_info": "First night doing the multi-track recording. We had digital distortion for the first half of the set, so only the last four songs are available. Bob Reynolds rips through Outlier. Bullock takes a distorted tenor solo on Big Ugly before McQueen and Larnell duke it out over the outro. The crowd won't let the last melodic phrase go, so Bill uses it to transition into Ready Wednesday. Maz goes late Miles on the solo section to What About Me? and Larnell absolutely trashes the drum solo to close it out. Lots of fire in this set.",
         "artists": {
             "Chris Bullock": "tenor sax",
             "Bob Reynolds": "tenor sax",
@@ -4000,7 +5489,7 @@
         "encore": [
             "Lingus*"
         ],
-        "track_info": "Our first recorded night of the tour! Tenor sax is king this evening. Kite opens the set with solos from Maz on flugelhorn and Bill on Fender Rhodes. Grown Folks has solos from Justin on trumpet, Bullock on a particularly raunchy effected tenor sax, and McQueen on a Hendrixian guitar solo to close it out. Bob takes a tenor solo on Semente, which blends into Beep Box, capped of with a muted trumpet solo by Maz. The band sits in Palermo longer than usual as McQueen, Bill, and Justin get into some crazy rhythmic accompaniment during Bullock’s solo. Marcelo gets playful on top of the crowd’s clapping rhythm during the outro. Tarova is brighter than normal and full of energy. Bill gets weird on Moog. Big Ugly makes its English debut. Maz takes a wah-wah trumpet solo and McQueen takes it home on guitar. Bob takes the open section on What About Me? before Larnell closes it out. The encore features the unbelievable Chris Potter ripping a hole in Lingus. Despite an acoustically challenging room, nice energy and vibe from both the band and the audience throughout.",
+        "track_info": "Our first recorded night of the tour! Tenor sax is king this evening. Kite opens the set with solos from Maz on flugelhorn and Bill on Fender Rhodes. Grown Folks has solos from Justin on trumpet, Bullock on a particularly raunchy effected tenor sax, and McQueen on a Hendrixian guitar solo to close it out. Bob takes a tenor solo on Semente, which blends into Beep Box, capped of with a muted trumpet solo by Maz. The band sits in Palermo longer than usual as McQueen, Bill, and Justin get into some crazy rhythmic accompaniment during Bullock's solo. Marcelo gets playful on top of the crowd's clapping rhythm during the outro. Tarova is brighter than normal and full of energy. Bill gets weird on Moog. Big Ugly makes its English debut. Maz takes a wah-wah trumpet solo and McQueen takes it home on guitar. Bob takes the open section on What About Me? before Larnell closes it out. The encore features the unbelievable Chris Potter ripping a hole in Lingus. Despite an acoustically challenging room, nice energy and vibe from both the band and the audience throughout.",
         "artists": {
             "Chris Bullock": "tenor sax",
             "Bob Reynolds": "tenor sax",
@@ -4040,7 +5529,7 @@
         "encore": [
             "Be My Husband*"
         ],
-        "track_info": "A last-minute show in the cozy Sugar Club added after Vicar Street sold out. Board mix with room mics (before our recording rig came in), but the sound is good. The band really stretches each tune. Larnell opens with a lyrical, poly-rhythmic drum intro to Flood. Justin takes the first solo on Moog. ML intros Whitecap with mod-delay harmonics. It’s Bill’s first day with the clavinet and he takes it advantage of it while Maz solos on flugelhorn. Semente gets a Fender Rhodes solo from Bill. Bullock takes a tenor solo on an extended version of Palermo. Grown Folks is funky. Bass solo and lots of rhythmic interaction with drums and percussion before McQueen takes it out on guitar. Marcelo takes a pandeiro intro on Tio Macaco and duets with Larnell to close it. Bill brings Ready Wednesday in with an ostinato. Justin solos on Prophet. Lucy Woodward joins for the encore of Nina Simone’s Be My Husband. Maz trades his trumpet in for a vocal mic. Fun, elastic gig in a small room.",
+        "track_info": "A last-minute show in the cozy Sugar Club added after Vicar Street sold out. Board mix with room mics (before our recording rig came in), but the sound is good. The band really stretches each tune. Larnell opens with a lyrical, poly-rhythmic drum intro to Flood. Justin takes the first solo on Moog. ML intros Whitecap with mod-delay harmonics. It's Bill's first day with the clavinet and he takes it advantage of it while Maz solos on flugelhorn. Semente gets a Fender Rhodes solo from Bill. Bullock takes a tenor solo on an extended version of Palermo. Grown Folks is funky. Bass solo and lots of rhythmic interaction with drums and percussion before McQueen takes it out on guitar. Marcelo takes a pandeiro intro on Tio Macaco and duets with Larnell to close it. Bill brings Ready Wednesday in with an ostinato. Justin solos on Prophet. Lucy Woodward joins for the encore of Nina Simone's Be My Husband. Maz trades his trumpet in for a vocal mic. Fun, elastic gig in a small room.",
         "artists": {
             "Chris Bullock": "tenor sax",
             "Bob Reynolds": "tenor sax",

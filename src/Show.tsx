@@ -145,10 +145,14 @@ const Show: React.SFC<Props> = ({ show, addTag, fileType }) => {
             {show.setlist.map(track => (
               <TrackComponent key={track} track={track} addTrackTag={addTrackTag} />
             ))}
-            {show.encore.length > 0 ? "-" : ""}
-            {show.encore.filter(track => !!track).map(track => (
-              <TrackComponent key={track} track={track} addTrackTag={addTrackTag} />
-            ))}
+            {show.encore && (
+              <>
+                {show.encore.length > 0 ? "-" : ""}
+                {show.encore.filter(track => !!track).map(track => (
+                  <TrackComponent key={track} track={track} addTrackTag={addTrackTag} />
+                ))}
+              </>
+            )}
           </Tracks>
           <Artists>
             {(Object.keys(show.artists) as Array<keyof ShowType["artists"]>).map((artist) => (
